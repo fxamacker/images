@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="100" viewBox="0 0 197.379 26.458">
+  <path fill="#fff" stroke="#fff" stroke-width=".265" stroke-linejoin="round" d="M117.343 1.19h44.979v6.35h-44.979z"/>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="54.107" y="276.497" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="54.107" y="276.497" font-size="4.233">fxamacker/cbor 2.2</tspan>
+  </text>
+  <text y="276.497" x="131.894" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan y="276.497" x="131.894" font-size="4.233">ugorji/go 1.1.7</tspan>
+  </text>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174.174h197.03v8.693H.174z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174 8.882h197.03v8.693H.174z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174 17.591h197.03v8.693H.174z"/>
+  <text y="276.636" x="60.192" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="276.636" x="60.192" font-weight="500" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
+  </text>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M112.996.03h.243v26.152h-.243z"/>
+  <text y="285.361" x="48.022" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="285.361" x="48.022" font-size="4.233">60.6 ns/op, 40 B/op, 1 allocs/op</tspan>
+  </text>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="48.022" y="294.092" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="48.022" y="294.092" font-size="4.233">61.7 ns/op, 40 B/op, 1 allocs/op</tspan>
+  </text>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="118.399" y="285.361" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="118.399" y="285.361" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.233" fill="maroon">fatal error: out of memory</tspan>
+  </text>
+  <text y="294.092" x="118.399" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="294.092" x="118.399" font-weight="500" font-size="4.233" fill="maroon">runtime: out of memory: cannot allocate</tspan>
+  </text>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="142.211" y="276.636" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="142.211" y="276.636" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
+  </text>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M43.675.03h.243v26.152h-.243z"/>
+  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="3.417" y="285.361" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="3.417" y="285.361" font-size="4.233">malformed data #1</tspan>
+  </text>
+  <text transform="matrix(1 0 0 1 0 -270.542)" y="294.092" x="3.417" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.939" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="294.092" x="3.417" font-size="4.233">malformed data #1</tspan>
+  </text>
+</svg>
