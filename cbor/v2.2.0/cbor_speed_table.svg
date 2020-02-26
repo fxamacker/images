@@ -1,38 +1,394 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="746" height="100" viewBox="0 0 197.379 26.458">
-  <path fill="#fff" stroke="#fff" stroke-width=".265" stroke-linejoin="round" d="M117.343 1.19h44.979v6.35h-44.979z"/>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="54.107" y="276.497" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="54.107" y="276.497" font-size="4.233">fxamacker/cbor 2.2</tspan>
-  </text>
-  <text y="276.497" x="136.127" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan y="276.497" x="136.127" font-size="4.233">ugorji/go 1.1.7</tspan>
-  </text>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174.174h197.03v8.693H.174z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174 8.882h197.03v8.693H.174z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174 17.591h197.03v8.693H.174z"/>
-  <text y="276.636" x="62.309" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="276.636" x="62.309" font-weight="500" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
-  </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M118.817.03h.243v26.152h-.243z"/>
-  <text y="285.361" x="48.022" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="285.361" x="48.022" font-size="4.233">451 ns/op, 176 B/op, 2 allocs/op</tspan>
-  </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="48.022" y="294.092" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="48.022" y="294.092" font-size="4.233">765 ns/op, 176 B/op, 6 allocs/op</tspan>
-  </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="122.632" y="285.361" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="122.632" y="285.361" style="-inkscape-font-specification:Roboto" font-size="4.233">977 ns/op, 1424 B/op, 4 allocs/op</tspan>
-  </text>
-  <text y="294.092" x="122.632" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:Roboto" y="294.092" x="122.632" font-size="4.233">1100 ns/op, 568 B/op, 6 allocs/op</tspan>
-  </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="146.445" y="276.636" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="146.445" y="276.636" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
-  </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M44.204.03h.243v26.152h-.243z"/>
-  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="2.358" y="285.361" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="2.358" y="285.361" style="-inkscape-font-specification:'Roboto Medium'" font-size="4.233" font-weight="500">Encode CWT Claims</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -270.542)" y="294.092" x="2.358" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="294.092" x="2.358" font-size="4.233" font-weight="500">Decode CWT Claims</tspan>
-  </text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="746"
+   height="100"
+   viewBox="0 0 197.37916 26.458334"
+   version="1.1"
+   id="svg6181"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="cbor_speed_comparison.svg">
+  <defs
+     id="defs6175" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="395.95522"
+     inkscape:cy="-24.615153"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1385"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6178">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54163)">
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       y="271.73215"
+       x="117.87194"
+       height="6.3498931"
+       width="44.979164"
+       id="rect4770"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458108;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="53.577675"
+       y="276.4971"
+       id="text4774"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         x="53.577675"
+         y="276.4971"
+         style="font-size:4.23329735px;stroke-width:0.26458108">fxamacker/cbor 2.2</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text4778"
+       y="276.4971"
+       x="135.59773"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         style="font-size:4.23329735px;stroke-width:0.26458108"
+         y="276.4971"
+         x="135.59773"
+         id="tspan4776"
+         sodipodi:role="line">ugorji/go 1.1.7</tspan></text>
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       y="270.716"
+       x="0.17442088"
+       height="8.6926813"
+       width="197.03032"
+       id="rect4780"
+       style="opacity:1;fill:#eef2ff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.34884176;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.34884176;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4782"
+       width="197.03032"
+       height="8.6926813"
+       x="0.17442088"
+       y="279.42441" />
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       style="opacity:1;fill:#f6f8fa;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.34884176;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4784"
+       width="197.03032"
+       height="8.6926813"
+       x="0.17442088"
+       y="288.13287" />
+    <text
+       id="text4788"
+       y="276.63553"
+       x="61.779716"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23329735px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#333333;stroke-width:0.26458108"
+         y="276.63553"
+         x="61.779716"
+         id="tspan4786"
+         sodipodi:role="line">fxamacker/cbor 2.2</tspan></text>
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       y="270.57098"
+       x="117.75826"
+       height="26.153154"
+       width="0.24320957"
+       id="rect4790"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.02125874;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text4795"
+       y="285.36084"
+       x="91.148178"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         style="font-size:4.14513874px;fill:#333333;stroke-width:0.26458108"
+         y="285.36084"
+         x="91.148178"
+         id="tspan4793"
+         sodipodi:role="line">2 allocs/op</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="91.069244"
+       y="294.09207"
+       id="text4799"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         sodipodi:role="line"
+         id="tspan4797"
+         x="91.069244"
+         y="294.09207"
+         style="font-size:4.14513874px;fill:#333333;stroke-width:0.26458108">6 allocs/op</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="170.25684"
+       y="285.36084"
+       id="text4803"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         sodipodi:role="line"
+         id="tspan4801"
+         x="170.25684"
+         y="285.36084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23329735px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.26458108"><tspan
+           style="font-size:4.14513874px"
+           id="tspan1505">4 allocs/op</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text4807"
+       y="294.09207"
+       x="170.25684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14513874px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.26458108"
+         y="294.09207"
+         x="170.25684"
+         id="tspan4805"
+         sodipodi:role="line">6 allocs/op</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="145.91547"
+       y="276.63553"
+       id="text4811"
+       transform="scale(1.0000084,0.9999916)"><tspan
+         sodipodi:role="line"
+         id="tspan4809"
+         x="145.91547"
+         y="276.63553"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23329735px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#333333;stroke-width:0.26458108">ugorji/go 1.1.7</tspan></text>
+    <rect
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.02125874;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6131"
+       width="0.24320957"
+       height="26.153154"
+       x="44.204075"
+       y="270.57098"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016" />
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="2.3584895"
+       y="285.36084"
+       id="text6135"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan6133"
+         x="2.3584895"
+         y="285.36084"
+         style="font-size:4.14513887px;fill:#333333;stroke-width:0.26458108;-inkscape-font-specification:'Roboto Medium';font-family:Roboto;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal">Encode CWT Claims</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       id="text6139"
+       y="294.09207"
+       x="2.3584895"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         style="font-size:4.14513887px;fill:#333333;stroke-width:0.26458108;-inkscape-font-specification:'Roboto Medium';font-family:Roboto;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="294.09207"
+         x="2.3584895"
+         id="tspan6137"
+         sodipodi:role="line">Decode CWT Claims</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="47.542976"
+       y="285.36084"
+       id="text2717"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan2715"
+         x="47.542976"
+         y="285.36084"
+         style="font-size:4.14513874px;fill:#333333;stroke-width:0.26458108">451 ns/op</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="70.246361"
+       y="285.36084"
+       id="text2721"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan2719"
+         x="70.246361"
+         y="285.36084"
+         style="font-size:4.14513874px;fill:#333333;stroke-width:0.26458108">176 B/op</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       id="text2725"
+       y="294.09207"
+       x="47.492378"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         style="font-size:4.14513874px;fill:#333333;stroke-width:0.26458108"
+         y="294.09207"
+         x="47.492378"
+         id="tspan2723"
+         sodipodi:role="line">765 ns/op</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       id="text2729"
+       y="294.09207"
+       x="70.246361"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         style="font-size:4.14513874px;fill:#333333;stroke-width:0.26458108"
+         y="294.09207"
+         x="70.246361"
+         id="tspan2727"
+         sodipodi:role="line">176 B/op</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       id="text2735"
+       y="285.36084"
+       x="122.10331"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23329735px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.26458108"
+         y="285.36084"
+         x="122.10331"
+         id="tspan2733"
+         sodipodi:role="line">  <tspan
+   id="tspan2731"
+   style="font-size:4.14513874px">977 ns/op</tspan></tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       id="text2741"
+       y="285.36084"
+       x="146.97382"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23329735px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.26458108"
+         y="285.36084"
+         x="146.97382"
+         id="tspan2739"
+         sodipodi:role="line"><tspan
+           id="tspan2737"
+           style="font-size:4.14513874px">1424 B/op</tspan></tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="121.87178"
+       y="294.09207"
+       id="text2745"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan2743"
+         x="121.87178"
+         y="294.09207"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14513874px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.26458108">1100 ns/op</tspan></text>
+    <text
+       transform="scale(1.0000084,0.9999916)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93884706px;line-height:23.99999946%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458108"
+       x="149.30545"
+       y="294.09207"
+       id="text2749"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan2747"
+         x="149.30545"
+         y="294.09207"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14513874px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.26458108">568 B/op</tspan></text>
+  </g>
 </svg>

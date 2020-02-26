@@ -1,38 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="100" viewBox="0 0 169.333 26.458">
   <path fill="#fff" stroke="#fff" stroke-width=".265" stroke-linejoin="round" d="M105.701 1.19h44.979v6.35h-44.979z"/>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="59.928" y="276.497" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="59.928" y="276.497" font-size="4.233">fxamacker/cbor 2.2</tspan>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="57.282" y="276.497" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="57.282" y="276.497">fxamacker/cbor 2.2</tspan>
   </text>
-  <text y="276.497" x="124.485" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan y="276.497" x="124.485" font-size="4.233">ugorji/go 1.1.7</tspan>
+  <text y="276.497" x="124.485" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan y="276.497" x="124.485">ugorji/go 1.1.7</tspan>
   </text>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".323" stroke-linejoin="round" d="M.162.161h169.01v8.701H.162z"/>
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".323" stroke-linejoin="round" d="M.162.161h169.01v8.701H.162z"/>
   <path fill="#fff" stroke="#e0e0e0" stroke-width=".323" stroke-linejoin="round" d="M.162 8.878h169.01v8.701H.162z"/>
   <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".323" stroke-linejoin="round" d="M.162 17.595h169.01v8.701H.162z"/>
-  <text y="276.636" x="56.488" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="276.636" x="56.488" font-weight="500" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
+  <text y="276.636" x="58.605" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="276.636" x="58.605" font-weight="500" fill="#333">fxamacker/cbor 2.2</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M107.175.03h.243v26.152h-.243z"/>
-  <text y="285.361" x="56.488" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="285.361" x="56.488" font-size="4.233">176 B/op, 2 allocs/op</tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M107.704.03h.243v26.152h-.243z"/>
+  <text y="285.361" x="80.3" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="285.361" x="80.3">2 allocs/op</tspan>
   </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="56.488" y="294.092" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="56.488" y="294.092" font-size="4.233">176 B/op, 6 allocs/op</tspan>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="141.682" y="285.361" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="141.682" y="285.361" style="-inkscape-font-specification:Roboto">4 allocs/op</tspan>
   </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="113.637" y="285.361" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="113.637" y="285.361" style="-inkscape-font-specification:Roboto" font-size="4.233">1424 B/op, 4 allocs/op</tspan>
+  <text y="294.357" x="141.682" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan style="-inkscape-font-specification:Roboto" y="294.357" x="141.682">6 allocs/op</tspan>
   </text>
-  <text y="294.092" x="113.637" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:Roboto" y="294.092" x="113.637" font-size="4.233">568 B/op, 6 allocs/op</tspan>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="125.278" y="276.636" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="125.278" y="276.636" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" fill="#333">ugorji/go 1.1.7</tspan>
   </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="113.637" y="276.636" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="113.637" y="276.636" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M47.379.03h.243v26.152h-.243z"/>
+  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="4.475" y="285.361" font-weight="400" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="4.475" y="285.361" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.145">Encode CWT Claims</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M50.025.03h.243v26.152h-.243z"/>
-  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="4.475" y="285.361" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="4.475" y="285.361" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.233">Encode CWT Claims</tspan>
+  <text transform="matrix(1 0 0 1 0 -270.542)" y="294.364" x="4.475" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="294.364" x="4.475" font-weight="500" font-size="4.145">Decode CWT Claims</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -270.542)" y="294.092" x="4.475" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="294.092" x="4.475" font-weight="500" font-size="4.233">Decode CWT Claims</tspan>
+  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="53.842" y="285.361" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="53.842" y="285.361">176 B/op</tspan>
+  </text>
+  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="80.3" y="294.357" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="80.3" y="294.357">6 allocs/op</tspan>
+  </text>
+  <text y="294.357" x="53.842" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="294.357" x="53.842">176 B/op</tspan>
+  </text>
+  <text transform="matrix(1 0 0 1 0 -270.542)" y="285.361" x="113.637" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan style="-inkscape-font-specification:Roboto" y="285.361" x="113.637">1424 B/op</tspan>
+  </text>
+  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="115.968" y="294.357" font-weight="400" font-size="4.145" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="115.968" y="294.357" style="-inkscape-font-specification:Roboto">568 B/op</tspan>
   </text>
 </svg>
