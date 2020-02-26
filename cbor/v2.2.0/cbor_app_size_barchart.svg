@@ -1,58 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="746" height="250" viewBox="0 0 197.379 66.146">
-  <g transform="translate(0 -230.854)">
-    <path fill="#fff" stroke="#fff" stroke-width=".426" d="M.213 231.067h196.953v65.719H.213z"/>
-    <g font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-      <text style="line-height:23.99999946%" x="39.632" y="235.38" transform="matrix(1 0 0 .99678 -31.391 7.657)">
-        <tspan x="39.632" y="235.38" style="-inkscape-font-specification:Roboto" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#4d4d4d">Same programs can be 4-9 MB smaller by using fxamacker/cbor</tspan>
-      </text>
-      <text style="line-height:23.99999946%" x="39.632" y="230.308" transform="matrix(1 0 0 .99678 -31.391 7.657)">
-        <tspan x="39.632" y="230.308" style="-inkscape-font-specification:Roboto" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#333">CBOR Program Size Comparison<tspan fill="gray"> </tspan><tspan fill="#999">(smaller is better)</tspan></tspan>
-      </text>
-      <text style="line-height:23.99999946%" x="39.632" y="283.111" transform="matrix(1 0 0 .99678 -31.391 7.657)">
-        <tspan x="39.632" y="283.111" style="-inkscape-font-specification:Roboto" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#666">MessagePack feature was removed from cisco/senml for all builds.</tspan>
-      </text>
-    </g>
-    <image y="248.808" x="46.302" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU0AAABsCAMAAADZqRDRAAAAnFBMVEVChfSgwvng4OCenp7toZr2 0MzP4Pz////bRDfkcmhwo/bg6/7mgHfxtK93p/fw8PDPz8/camDdkYrfubXpjob31tPdTkHR4f34 19TdT0J2p/f1y8foiYHto53yvbmvzPrzv7rmfXT30s+yzvv309DnhHzy9//up6C4yeVWkfWhwvqQ sunW5f2ArffR4v2FsPj5+//3+v9QjvRKivRF4+yQAAABTUlEQVR42u3bSU6CQRCA0RYUFAdQFHHE WXEC8f53M24MrqnkrybvO0Cn+i17KF3FVRDQTKw5SDJLv/o5fjXbJarpZJVdtJJotpJolvJEM1Bz lyZNmjRp0qRJkyZNmjRp0qRJcx01F3Oavahm784321s5GtY6x90/zW2t1tkDzcAuaQa2R5MmTZqi SZOmaNKkSVM00/RIM7CbJc3NHB3VOsfVyfJpcfU3CKluMmjSpEmTJk2aNGnSpEmTJk2aNGnSpEmT Jk2asZobOXoLWOP1tHHNsk7d0wzsnGZgBzRp0qRJkyZNmjRp0qRJkybNNH3QjOu707RmJ0cvAWt8 fjV+WryTo8OK57i9/tP03yegMc3AnmkGtk+TJk2aokmTpmjSpElTNNN0QTOs0bF3734R0KRJkyZN mjRp0qRJkybNfJqDJLvoVz9H6SoumpH9AEFMfn1zDM/pAAAAAElFTkSuQmCC" preserveAspectRatio="none" height="28.575" width="88.106"/>
-    <path fill="#4285f4" stroke="#fff" stroke-width=".339" d="M-62.498-360.094h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 205.543 608.872)"/>
-    <text y="-356.793" x="-56.591" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 205.543 608.872)">
-      <tspan style="-inkscape-font-specification:'Roboto Bold'" y="-356.793" x="-56.591" font-weight="700" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#4080ff">fxamacker/cbor v2.2</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="250" viewBox="0 0 197.379 66.146">
+  <path fill="#fff" stroke="#fff" stroke-width=".426" d="M.213.213h196.953v65.719H.213z"/>
+  <path fill="#ccc" d="M119.109 18.575h.301V46.1h-.301z"/>
+  <g font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <text style="line-height:23.99999946%" x="39.632" y="235.645" transform="matrix(1 0 0 .99678 -31.391 -223.197)">
+      <tspan x="39.632" y="235.645" style="-inkscape-font-specification:Roboto" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#4d4d4d">Same apps can be 4-9 MB smaller by using fxamacker/cbor</tspan>
     </text>
-    <path fill="#db4437" stroke="#fff" stroke-width=".339" d="M-62.272-349.472h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 205.317 617.632)"/>
-    <text y="-346.168" x="-56.489" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 205.317 617.632)">
-      <tspan style="-inkscape-font-specification:'Roboto Bold'" y="-346.168" x="-56.489" font-weight="700" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#c04020">ugorji/go v1.1.7</tspan>
+    <text style="line-height:23.99999946%" x="39.632" y="230.308" transform="matrix(1 0 0 .99678 -31.391 -223.197)">
+      <tspan x="39.632" y="230.308" style="-inkscape-font-specification:Roboto" font-size="4.233" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#333">CBOR Program Size Comparison<tspan fill="gray"> </tspan><tspan fill="#999">(smaller is better)</tspan></tspan>
     </text>
-    <text style="line-height:23.99999946%" x="82.144" y="282.506" transform="scale(1.00162 .99839)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
-      <tspan x="82.144" y="282.506" style="-inkscape-font-specification:Roboto" font-size="3.522" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#757575">5 MB</tspan>
-    </text>
-    <text style="line-height:23.99999946%" x="116.983" y="282.506" transform="scale(1.00162 .99839)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
-      <tspan x="116.983" y="282.506" style="-inkscape-font-specification:Roboto" font-size="3.522" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#757575">10 MB</tspan>
-    </text>
-    <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.383" y="258.096" transform="scale(1.00162 .99839)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-      <tspan x="148.383" y="258.096" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#4080ff">not using Go&apos;s unsafe pkg</tspan>
-    </text>
-    <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.383" y="262.238" transform="scale(1.00162 .99839)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-      <tspan x="148.383" y="262.238" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#4080ff">not using code gen</tspan>
-    </text>
-    <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.786" y="278.028" transform="scale(1.00162 .99839)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-      <tspan x="148.786" y="278.028" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#c04020">using Go&apos;s unsafe pkg</tspan>
-    </text>
-    <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.786" y="282.17" transform="scale(1.00162 .99839)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-      <tspan x="148.786" y="282.17" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#c04020">using code gen</tspan>
-    </text>
-    <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="142.61" y="242.295" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-      <tspan x="142.61" y="242.295" font-size="3.881" fill="#666">Using default build options</tspan>
-    </text>
-    <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="83.701" y="253.058" font-weight="400" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-      <tspan x="83.701" y="253.058" font-size="3.528" fill="#999">← 9.1 MB smaller</tspan>
-    </text>
-    <text transform="scale(1.00162 .99839)" y="282.506" x="46.219" style="line-height:23.99999946%" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
-      <tspan style="-inkscape-font-specification:Roboto" y="282.506" x="46.219" font-size="3.522" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#757575">0 MB</tspan>
-    </text>
-    <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="9.376" y="270.164" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265">
-      <tspan x="9.376" y="270.164" font-size="3.175" fill="#4d4d4d">senmlCat (cisco/senml)</tspan>
-    </text>
-    <text y="255.12" x="13.99" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265">
-      <tspan y="255.12" x="13.99" font-size="3.175" fill="#4d4d4d">custom app (private)</tspan>
+    <text style="line-height:23.99999946%" x="39.632" y="283.642" transform="matrix(1 0 0 .99678 -31.391 -223.197)">
+      <tspan x="39.632" y="283.642" style="-inkscape-font-specification:Roboto" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#666">MessagePack feature was removed from cisco/senml for all builds.</tspan>
     </text>
   </g>
+  <path fill="#4285f4" stroke="#fff" stroke-width=".339" d="M-62.498-360.094h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 205.543 378.018)"/>
+  <text y="-356.793" x="-56.591" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 205.543 378.018)">
+    <tspan style="-inkscape-font-specification:'Roboto Bold'" y="-356.793" x="-56.591" font-weight="700" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#4080ff">fxamacker/cbor v2.2</tspan>
+  </text>
+  <path fill="#db4437" stroke="#fff" stroke-width=".339" d="M-62.272-349.472h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 205.317 386.778)"/>
+  <text y="-346.168" x="-56.489" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 205.317 386.778)">
+    <tspan style="-inkscape-font-specification:'Roboto Bold'" y="-346.168" x="-56.489" font-weight="700" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#c04020">ugorji/go v1.1.7</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="82.144" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan x="82.144" y="282.506" style="-inkscape-font-specification:Roboto" font-size="3.522" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#757575">5 MB</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="116.983" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan x="116.983" y="282.506" style="-inkscape-font-specification:Roboto" font-size="3.522" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#757575">10 MB</tspan>
+  </text>
+  <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.383" y="258.096" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="148.383" y="258.096" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#4080ff">not using Go&apos;s unsafe pkg</tspan>
+  </text>
+  <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.383" y="262.238" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="148.383" y="262.238" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#4080ff">not using code gen</tspan>
+  </text>
+  <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.785" y="278.028" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="148.785" y="278.028" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#c04020">using Go&apos;s unsafe pkg</tspan>
+  </text>
+  <text style="line-height:1em;-inkscape-font-specification:Roboto" x="148.785" y="282.17" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="148.785" y="282.17" style="line-height:50%;-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="3.522" fill="#c04020">using code gen</tspan>
+  </text>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="142.61" y="242.295" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="142.61" y="242.295" font-size="3.881" fill="#666">Using default build options</tspan>
+  </text>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="83.965" y="253.058" font-weight="400" font-size="3.881" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="83.965" y="253.058" font-size="3.528" fill="#999">← 9.1 MB smaller</tspan>
+  </text>
+  <text transform="matrix(1.00162 0 0 .99839 0 -230.854)" y="282.506" x="46.219" style="line-height:23.99999946%" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan style="-inkscape-font-specification:Roboto" y="282.506" x="46.219" font-size="3.522" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" fill="#757575">0 MB</tspan>
+  </text>
+  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="9.376" y="270.164" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="9.376" y="270.164" font-size="3.175" fill="#4d4d4d">senmlCat (cisco/senml)</tspan>
+  </text>
+  <text y="255.12" x="13.99" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan y="255.12" x="13.99" font-size="3.175" fill="#4d4d4d">custom app (private)</tspan>
+  </text>
+  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M47.525 18.765h19.94v4.915h-19.94z"/>
+  <path fill="#ccc" d="M83.126 18.575h.301V46.1h-.301z"/>
+  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M47.493 33.214h54.556v4.754H47.493z"/>
+  <path fill="#db4436" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M47.526 38.042h86.146v4.688H47.526zM47.524 23.753h85.472v4.69H47.524z"/>
+  <path fill="#999" d="M47.096 18.633h.301V46.1h-.301z"/>
 </svg>
