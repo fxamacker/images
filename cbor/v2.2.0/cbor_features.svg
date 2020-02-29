@@ -1,68 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="868" height="298" viewBox="0 0 229.658 78.846">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133.132h229.392v8.73H.133z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 26.326h229.392v8.73H.133z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 35.057h229.392v8.73H.133z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 43.789h229.392v8.73H.133z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 52.52h229.392v8.73H.133z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 61.25h229.392v8.73H.133z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".189" stroke-linejoin="round" d="M.094 69.944h229.463v8.807H.094z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 8.864h229.392v8.73H.133z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".267" stroke-linejoin="round" d="M.133 17.595h229.392v8.73H.133z"/>
-  <text y="224.271" x="23.625" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan  y="224.271" x="23.625" font-weight="700" font-size="4.233">CBOR Feature</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="298" viewBox="0 0 232.833 78.846">
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134.133h232.564v8.73H.134z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 26.326h232.564v8.73H.134z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 35.058h232.564v8.73H.134z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 43.789h232.564v8.73H.134z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 52.52h232.564v8.73H.134z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 61.25h232.564v8.73H.134z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".19" stroke-linejoin="round" d="M.095 69.944h232.637v8.807H.095z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 8.864h232.564v8.73H.134z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".268" stroke-linejoin="round" d="M.134 17.595h232.564v8.73H.134z"/>
+  <text y="224.271" x="23.625" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="224.271" x="23.625" font-weight="700" font-size="4.233">CBOR Feature</tspan>
   </text>
-  <text y="232.996" x="13.571" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan  y="232.996" x="13.571" font-weight="500" font-size="4.145" fill="#4d4d4d">CBOR tags</tspan>
+  <text y="232.996" x="10.906" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="232.996" x="10.906" font-weight="500" font-size="4.145" fill="#4d4d4d">CBOR tags</tspan>
   </text>
-  <text style="line-height:23.99999946%;" x="133.161" y="224.271" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="133.161" y="224.271"  font-weight="700" font-size="4.233">Description</tspan>
+  <text style="line-height:23.99999946%" x="133.161" y="224.271" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="133.161" y="224.271" font-weight="700" font-size="4.233">Description</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".036" stroke-linejoin="round" d="M9.761.064h.227v78.669h-.227zM64.266.067h.227V78.75h-.227z"/>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="69.133" y="232.996" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="69.133" y="232.996" font-size="4.145">API supports built-in and user-defined tags.</tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".036" stroke-linejoin="round" d="M7.933.064h.227v78.669h-.227zM64.266.067h.227V78.75h-.227z"/>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="67.546" y="232.996" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="67.546" y="232.996" font-size="4.145">API supports built-in and user-defined tags.</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="13.571" y="241.463" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="13.571" y="241.463"  font-weight="500" font-size="4.145" fill="#4d4d4d">Preferred serialization</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="10.811" y="241.463" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="10.811" y="241.463" font-weight="500" font-size="4.145" fill="#4d4d4d">Preferred serialization</tspan>
   </text>
-  <text y="241.463" x="69.133" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="241.463" x="69.133" font-size="4.145">Integers encode to fewest bytes. Optional float64 <tspan fill="#00a000">→ </tspan>float32 <tspan fill="#00a000">→ </tspan>float16 if value fits.</tspan>
+  <text y="241.463" x="67.546" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="241.463" x="67.546" font-size="4.145">Integers encode to fewest bytes. Optional float64 <tspan fill="#00a000">→ </tspan>float32 <tspan fill="#00a000">→ </tspan>float16 if value fits.</tspan>
   </text>
-  <text y="249.93" x="13.571" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan  y="249.93" x="13.571" font-weight="500" font-size="4.145" fill="#4d4d4d">Map key sorting</tspan>
+  <text y="249.93" x="10.811" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="249.93" x="10.811" font-weight="500" font-size="4.145" fill="#4d4d4d">Map key sorting</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="69.133" y="249.93" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="69.133" y="249.93" font-size="4.145">Unsorted, length-first (Canonical CBOR), and bytewise-lexicographic (CTAP2).</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="67.546" y="249.93" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="67.546" y="249.93" font-size="4.145">Unsorted, length-first (Canonical CBOR), and bytewise-lexicographic (CTAP2).</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="13.571" y="267.922" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="13.571" y="267.922"  font-weight="500" font-size="4.145" fill="#4d4d4d">Indefinite length data</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="10.78" y="267.922" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="10.78" y="267.922" font-weight="500" font-size="4.145" fill="#4d4d4d">Indefinite length data</tspan>
   </text>
-  <text y="267.922" x="69.133" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="267.922" x="69.133" font-size="4.145">Option to allow/forbid for encoding and decoding.</tspan>
+  <text y="267.922" x="67.546" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="267.922" x="67.546" font-size="4.145">Option to allow/forbid for encoding and decoding.</tspan>
   </text>
-  <text y="276.389" x="13.571" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan  y="276.389" x="13.571" font-weight="500" font-size="4.145">Well-formedness checks</tspan>
+  <text y="276.389" x="11.013" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+    <tspan y="276.389" x="11.013" font-weight="500" font-size="4.145">Well-formedness checks</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="69.133" y="276.389" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="69.133" y="276.389" font-size="4.145">Always checked and enforced.</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="67.546" y="276.389" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="67.546" y="276.389" font-size="4.145">Always checked and enforced.</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="13.571" y="285.385" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan x="13.571" y="285.385"  font-weight="500" font-size="4.145">Basic validity checks</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="10.811" y="285.385" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+    <tspan x="10.811" y="285.385" font-weight="500" font-size="4.145">Basic validity checks</tspan>
   </text>
-  <text y="285.385" x="69.133" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="285.385" x="69.133" font-size="4.145">UTF-8 validity and optional duplicate map keys.</tspan>
+  <text y="285.385" x="67.546" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="285.385" x="67.546" font-size="4.145">UTF-8 validity and optional duplicate map keys.</tspan>
   </text>
-  <text y="293.961" x="13.571" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan  y="293.961" x="13.571" font-weight="500" font-size="4.145">Security considerations</tspan>
+  <text y="293.961" x="10.963" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+    <tspan y="293.961" x="10.963" font-weight="500" font-size="4.145">Security considerations</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="69.133" y="294.226" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="69.133" y="294.226" font-size="4.145">Prevent integer overflow and resource exhaustion described in RFC 7049 Section 8.</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="67.546" y="294.226" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="67.546" y="294.226" font-size="4.145">Prevent integer overflow and resource exhaustion (RFC 7049 Section 8).</tspan>
   </text>
-  <text y="258.926" x="13.571" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan  y="258.926" x="13.571" font-weight="500" font-size="4.145" fill="#4d4d4d">Duplicate map keys</tspan>
+  <text y="258.926" x="10.811" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="258.926" x="10.811" font-weight="500" font-size="4.145" fill="#4d4d4d">Duplicate map keys</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%;" x="69.133" y="258.926" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="69.133" y="258.926" font-size="4.145">Always forbid for encoding and option to allow/forbid for decoding.</tspan>
+  <text transform="matrix(1 0 0 1 0 -218.154)" style="line-height:23.99999946%" x="67.546" y="258.926" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="67.546" y="258.926" font-size="4.145">Always forbid for encoding and option to allow/forbid for decoding.</tspan>
   </text>
-  <text y="292.638" x="71.779" style="line-height:23.99999946%;" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265"/>
-  <path d="M4.011 13.155q.108 0 .163.177.11.33.157.33.036 0 .074-.055.775-1.138 1.434-1.62.278-.204.543-.204.35 0 .421.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.073-.062-.033-.22-.421-.198-.49-.198-.86 0-.135.193-.223.264-.122.397-.122zM4.011 21.622q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.434-1.62.278-.204.543-.204.35 0 .421.022.03.008.03.068 0 .05-.063.125-1.772 2.033-2.111 2.645-.116.21-.535.21-.138 0-.29-.072-.062-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM4.011 30.618q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.434-1.62.278-.205.543-.205.35 0 .421.022.03.008.03.07 0 .049-.063.123-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.062-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM4.011 39.085q.108 0 .163.176.11.33.157.33.036 0 .074-.054.775-1.139 1.434-1.621.278-.204.543-.204.35 0 .421.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.062-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM4.011 48.08q.108 0 .163.177.11.33.157.33.036 0 .074-.055.775-1.138 1.434-1.62.278-.204.543-.204.35 0 .421.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.073-.062-.033-.22-.421-.198-.49-.198-.86 0-.135.193-.223.264-.122.397-.122zM4.011 56.547q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.434-1.62.278-.204.543-.204.35 0 .421.022.03.008.03.068 0 .05-.063.125-1.772 2.034-2.111 2.645-.116.21-.535.21-.138 0-.29-.072-.062-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM4.011 65.543q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.434-1.62.278-.205.543-.205.35 0 .421.022.03.008.03.07 0 .049-.063.123-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.062-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM4.011 74.01q.108 0 .163.176.11.33.157.33.036 0 .074-.054.775-1.139 1.434-1.62.278-.205.543-.205.35 0 .421.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.062-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121z" font-size="5.644" fill="green" aria-label="✔" style="font-size:5.64444494px;fill:#008000;stroke-width:0.26458332" font-weight="400" font-family="SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265"/>
+  <text y="292.638" x="71.779" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -218.154)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265"/>
+  <path d="M3.241 13.155q.108 0 .163.177.11.33.157.33.036 0 .074-.055.775-1.138 1.433-1.62.279-.204.543-.204.35 0 .422.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.073-.063-.033-.22-.421-.198-.49-.198-.86 0-.135.193-.223.264-.122.397-.122zM3.241 21.622q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.433-1.62.279-.204.543-.204.35 0 .422.022.03.008.03.068 0 .05-.063.125-1.772 2.033-2.111 2.645-.116.21-.535.21-.138 0-.29-.072-.063-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM3.241 30.618q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.433-1.62.279-.205.543-.205.35 0 .422.022.03.008.03.07 0 .049-.063.123-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.063-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM3.241 39.085q.108 0 .163.176.11.33.157.33.036 0 .074-.054.775-1.139 1.433-1.621.279-.204.543-.204.35 0 .422.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.063-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM3.241 48.08q.108 0 .163.177.11.33.157.33.036 0 .074-.055.775-1.138 1.433-1.62.279-.204.543-.204.35 0 .422.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.073-.063-.033-.22-.421-.198-.49-.198-.86 0-.135.193-.223.264-.122.397-.122zM3.241 56.547q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.433-1.62.279-.204.543-.204.35 0 .422.022.03.008.03.068 0 .05-.063.125-1.772 2.034-2.111 2.645-.116.21-.535.21-.138 0-.29-.072-.063-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM3.241 65.543q.108 0 .163.176.11.331.157.331.036 0 .074-.055.775-1.138 1.433-1.62.279-.205.543-.205.35 0 .422.022.03.008.03.07 0 .049-.063.123-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.063-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121zM3.241 74.01q.108 0 .163.176.11.33.157.33.036 0 .074-.054.775-1.139 1.433-1.62.279-.205.543-.205.35 0 .422.022.03.008.03.069 0 .05-.063.124-1.772 2.034-2.111 2.646-.116.21-.535.21-.138 0-.29-.072-.063-.033-.22-.422-.198-.49-.198-.86 0-.135.193-.223.264-.121.397-.121z" font-size="5.644" fill="green" aria-label="✔" style="font-size:5.64444494px;fill:#008000;stroke-width:0.26458332" font-weight="400" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265"/>
 </svg>
