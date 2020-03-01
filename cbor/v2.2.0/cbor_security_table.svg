@@ -1,50 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="746" height="100" viewBox="0 0 197.379 26.458">
-  <path fill="#fff" stroke="#fff" stroke-width=".265" stroke-linejoin="round" d="M117.872 1.19h44.979v6.35h-44.979z"/>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="53.049" y="276.497" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="53.049" y="276.497" font-size="4.233">fxamacker/cbor 2.2</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="118" viewBox="0 0 232.833 31.221">
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132.198h232.569v10.319H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.484H232.7v10.319H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 20.77H232.7v10.319H.132z"/>
+  <text y="273.534" x="62.621" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -265.78)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan y="273.534" x="62.621" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
   </text>
-  <text y="276.497" x="132.423" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan y="276.497" x="132.423" font-size="4.233">ugorji/go 1.1.7</tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M128.797.086h.243v30.933h-.243z"/>
+  <text y="283.847" x="100.335" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -265.78)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="283.847" x="100.335" font-size="4.149">1 allocs/op</tspan>
   </text>
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174.174h197.03v8.693H.174z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174 8.882h197.03v8.693H.174z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".349" stroke-linejoin="round" d="M.174 17.591h197.03v8.693H.174z"/>
-  <text y="276.636" x="59.134" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="276.636" x="59.134" font-weight="500" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
+  <text style="line-height:23.99999946%" x="138.963" y="283.847" transform="matrix(1 0 0 1 0 -265.78)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="138.963" y="283.847" font-weight="700" font-size="4.145" fill="maroon">fatal error: out of memory</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M112.996.03h.243v26.152h-.243z"/>
-  <text y="285.361" x="88.238" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="285.361" x="88.238" font-size="4.149">1 allocs/op</tspan>
+  <text y="294.166" x="138.963" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -265.78)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="294.166" x="138.963" font-weight="700" font-size="4.145" fill="maroon">runtime: out of memory: cannot allocate</tspan>
   </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="117.341" y="285.361" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="117.341" y="285.361" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.145" fill="maroon">fatal error: out of memory</tspan>
+  <text style="line-height:23.99999946%" x="161.605" y="273.534" transform="matrix(1 0 0 1 0 -265.78)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="161.605" y="273.534" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
   </text>
-  <text y="294.092" x="117.341" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="294.092" x="117.341" font-weight="500" font-size="4.145" fill="maroon">runtime: out of memory: cannot allocate</tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M47.835.086h.243v30.933h-.243z"/>
+  <text transform="matrix(1 0 0 1 0 -265.78)" style="line-height:23.99999946%" x="2.784" y="283.847" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="2.784" y="283.847" font-size="4.145">Malformed Data #1</tspan>
   </text>
-  <text style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="142.74" y="276.636" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="142.74" y="276.636" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
+  <text transform="matrix(1 0 0 1 0 -265.78)" y="294.166" x="2.784" style="line-height:23.99999946%" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="294.166" x="2.784" font-size="4.145">Malformed Data #2</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".021" stroke-linejoin="round" d="M42.087.03h.243v26.152h-.243z"/>
-  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="2.888" y="285.361" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="2.888" y="285.361" style="-inkscape-font-specification:'Roboto Medium'" font-weight="500" font-size="4.145">Malformed Data #1</tspan>
+  <text transform="matrix(1 0 0 1 0 -265.78)" style="line-height:23.99999946%" x="51.123" y="283.847" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="51.123" y="283.847" font-size="4.149">60.6 ns/op</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -270.542)" y="294.092" x="2.888" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan style="-inkscape-font-specification:'Roboto Medium'" y="294.092" x="2.888" font-weight="500" font-size="4.145">Malformed Data #2</tspan>
+  <text transform="matrix(1 0 0 1 0 -265.78)" style="line-height:23.99999946%" x="78.11" y="283.847" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="78.11" y="283.847" font-size="4.149">40 B/op</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="45.376" y="285.361" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="45.376" y="285.361" font-size="4.149">60.6 ns/op</tspan>
+  <text transform="matrix(1 0 0 1 0 -265.78)" style="line-height:23.99999946%" x="100.335" y="294.43" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="100.335" y="294.43" font-size="4.149">1 allocs/op</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="69.188" y="285.361" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="69.188" y="285.361" font-size="4.149">40 B/op</tspan>
+  <text y="294.43" x="51.123" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -265.78)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="294.43" x="51.123" font-size="4.149">61.7 ns/op</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -270.542)" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" x="88.238" y="294.357" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="88.238" y="294.357" font-size="4.149">1 allocs/op</tspan>
+  <text y="294.43" x="78.11" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -265.78)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="294.43" x="78.11" font-size="4.149">40 B/op</tspan>
   </text>
-  <text y="294.357" x="45.376" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="294.357" x="45.376" font-size="4.149">61.7 ns/op</tspan>
-  </text>
-  <text y="294.357" x="69.188" style="line-height:23.99999946%;-inkscape-font-specification:Roboto" transform="matrix(1 0 0 1 0 -270.542)" font-weight="400" font-size="4.939" font-family="Roboto, SF Pro Text, Helvetica Neue, Segoe UI, SegoeUI, Liberation Sans, Arimo, Arial, san-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="294.357" x="69.188" font-size="4.149">40 B/op</tspan>
-  </text>
+  <path style="solid-color:#000" d="M134.133 14.094l-.014.001a.304.304 0 00-.261.15l-1.048 1.816-1.048 1.815a.308.308 0 00.263.457h4.193c.229 0 .378-.258.263-.457l-1.048-1.815-1.048-1.816a.304.304 0 00-.234-.149.067.067 0 00-.018-.003z" color="#000"/>
+  <path d="M134.133 14.16a.237.237 0 00-.217.119l-1.048 1.815-1.048 1.816a.24.24 0 00.205.356h4.193c.179 0 .295-.2.205-.356l-1.048-1.816-1.048-1.815a.237.237 0 00-.194-.118z" style="solid-color:#000" color="#000" fill="#fff"/>
+  <path d="M134.13 14.228a.17.17 0 00-.156.085l-1.048 1.815-1.048 1.815a.17.17 0 00.147.256h4.193a.17.17 0 00.147-.256l-1.048-1.815-1.048-1.815a.17.17 0 00-.14-.085z" style="solid-color:#000" color="#000"/>
+  <path d="M136.218 18.028h-4.193l1.048-1.815 1.048-1.815 1.049 1.815z" fill="#fc0"/>
+  <g transform="matrix(.03354 0 0 .03354 131.486 13.851)">
+    <circle cx="78.564" cy="111.117" r="8.817"/>
+    <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
+  </g>
+  <g>
+    <path d="M134.133 24.412c-.005 0-.01 0-.014.002a.304.304 0 00-.261.15l-1.048 1.816-1.048 1.815a.308.308 0 00.263.456h4.193c.229 0 .378-.257.263-.456l-1.048-1.815-1.048-1.816a.304.304 0 00-.234-.149.067.067 0 00-.018-.003z" style="solid-color:#000" color="#000"/>
+    <path style="solid-color:#000" d="M134.133 24.48a.237.237 0 00-.217.118l-1.048 1.815-1.048 1.816a.24.24 0 00.205.355h4.193c.179 0 .295-.2.205-.355l-1.048-1.816-1.048-1.815a.237.237 0 00-.194-.119z" color="#000" fill="#fff"/>
+    <path style="solid-color:#000" d="M134.13 24.546a.17.17 0 00-.156.085l-1.048 1.816-1.048 1.815a.17.17 0 00.147.255h4.193a.17.17 0 00.147-.255l-1.048-1.815-1.048-1.816a.17.17 0 00-.14-.085z" color="#000"/>
+    <path d="M136.218 28.347h-4.193l1.048-1.815 1.048-1.816 1.049 1.816z" fill="#fc0"/>
+    <g transform="matrix(.03354 0 0 .03354 131.486 24.17)">
+      <circle r="8.817" cy="111.117" cx="78.564"/>
+      <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
+    </g>
+  </g>
 </svg>
