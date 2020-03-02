@@ -1,69 +1,465 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="378" viewBox="0 0 222.25 100.013">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132.113h221.985v10.292H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 37.95h221.985V48.24H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 48.27h221.985V58.56H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 58.588h221.985V68.88H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 68.907h221.985V79.2H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 79.226h221.985v10.292H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 89.502h221.985V99.88H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.417h221.985V27.77H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 27.63h221.985v10.292H.132z"/>
-  <text y="204.018" x="6.763" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="204.018" x="6.763" font-size="4.233">EncOptions</tspan>
-  </text>
-  <text y="217.62" x="4.005" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="217.62" x="4.005" font-size="4.145" fill="#4d4d4d">Sort</tspan>
-  </text>
-  <text style="line-height:23.99999946%" x="80.697" y="204.018" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="80.697" y="204.018" font-size="4.233">Available Settings (defaults in bold+green)</tspan>
-  </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".04" stroke-linejoin="round" d="M37.855.001h.224v99.944h-.224z"/>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="213.386" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="213.386" font-weight="700" font-size="4.145"><tspan fill="green">SortNone</tspan><tspan font-weight="400">, SortLengthFirst, SortBytewiseLexical</tspan></tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.91" y="231.378" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="3.91" y="231.378" font-size="4.145" fill="#4d4d4d">Time</tspan>
-  </text>
-  <text y="231.481" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="231.481" x="41.539" font-size="4.145"><tspan fill="green">TimeUnix</tspan><tspan font-weight="400">, TimeUnixMicro, TimeUnixDynamic, TimeRFC3339, TimeRFC3339Nano</tspan></tspan>
-  </text>
-  <text y="241.842" x="3.91" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="241.842" x="3.91" font-size="4.145" fill="#4d4d4d">TimeTag</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="242.022" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="242.022" font-size="4.145"><tspan font-weight="700" fill="green">EncTagNone</tspan>, EncTagRequired</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.88" y="262.124" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="3.88" y="262.124" font-size="4.145" fill="#4d4d4d">InfConvert</tspan>
-  </text>
-  <text y="262.286" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="262.286" x="41.539" font-size="4.145"><tspan font-weight="700" fill="green">InfConvertFloat16</tspan>, InfConvertNone</tspan>
-  </text>
-  <text y="272.451" x="4.112" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan y="272.451" x="4.112" font-size="4.145">NaNConvert</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="272.585" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="272.585" font-size="4.145"><tspan font-weight="700" fill="green">NaNConvert7e00</tspan>, NaNConvertNone, NaNConvertQuiet, NaNConvertPreserveSignal</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.91" y="282.735" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan x="3.91" y="282.735" font-size="4.145">IndefLength</tspan>
-  </text>
-  <text y="282.872" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="282.872" x="41.539" font-size="4.145"><tspan font-weight="700" fill="green">IndefLengthAllowed</tspan>, IndefLengthForbidden</tspan>
-  </text>
-  <text y="293.137" x="4.062" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan y="293.137" x="4.062" font-size="4.145">TagsMd</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="293.402" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="293.402" font-size="4.145"><tspan font-weight="700" fill="green">TagsAllowed</tspan>, TagsForbidden</tspan>
-  </text>
-  <text y="251.965" x="3.91" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="251.965" x="3.91" font-size="4.145" fill="#4d4d4d">ShortestFloat</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="251.999" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="251.999" font-size="4.145"><tspan font-weight="700" fill="green">ShortestFloatNone</tspan>, ShortestFloat16</tspan>
-  </text>
-  <text y="220.795" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="220.795" x="41.539" font-size="4.145">Aliases: SortCanonical, SortCTAP2, SortCoreDeterministic</tspan>
-  </text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="840"
+   height="378"
+   viewBox="0 0 222.25001 100.0125"
+   version="1.1"
+   id="svg919"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="cbor_encoptions.svg">
+  <defs
+     id="defs913" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="362.3433"
+     inkscape:cy="191.46917"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1385"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata916">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-196.98752)">
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       y="197.69359"
+       x="0.13228095"
+       height="10.290548"
+       width="221.98544"
+       id="rect4780"
+       style="opacity:1;fill:#eef2ff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="235.25749"
+       x="0.13228095"
+       height="10.290548"
+       width="221.98544"
+       id="rect7535"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016" />
+    <rect
+       y="245.30981"
+       x="0.13228095"
+       height="10.290548"
+       width="221.98544"
+       id="rect7537"
+       style="opacity:1;fill:#f6f8fa;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016" />
+    <rect
+       y="255.62666"
+       x="0.13228095"
+       height="10.290548"
+       width="221.98544"
+       id="rect7539"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016" />
+    <rect
+       y="265.94351"
+       x="0.13228095"
+       height="10.290548"
+       width="221.98544"
+       id="rect7541"
+       style="opacity:1;fill:#f6f8fa;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016" />
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7543"
+       width="221.98544"
+       height="10.290548"
+       x="0.13228095"
+       y="276.26035" />
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       style="opacity:1;fill:#f6f8fa;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456198;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7545"
+       width="221.98544"
+       height="10.375892"
+       x="0.13228099"
+       y="286.49185" />
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26461095;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4782"
+       width="221.9854"
+       height="17.349327"
+       x="0.13230549"
+       y="208.09409" />
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       style="opacity:1;fill:#f6f8fa;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.26456189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4784"
+       width="221.98544"
+       height="10.290548"
+       x="0.13228095"
+       y="225.20518" />
+    <text
+       id="text4788"
+       y="204.62868"
+       x="6.7627192"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.2329073px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"
+         y="204.62868"
+         x="6.7627192"
+         id="tspan4786"
+         sodipodi:role="line">EncOptions</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text4795"
+       y="218.27098"
+       x="4.0047779"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671"
+         y="218.27098"
+         x="4.0047779"
+         id="tspan4793"
+         sodipodi:role="line">Sort</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="80.689796"
+       y="204.62868"
+       id="text4811"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         sodipodi:role="line"
+         id="tspan4809"
+         x="80.689796"
+         y="204.62868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.2329073px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671">Available Settings (defaults in bold+green)</tspan></text>
+    <rect
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       y="197.00746"
+       x="37.855343"
+       height="99.925194"
+       width="0.2237737"
+       id="rect7555"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:0.03985907;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671;stroke-opacity:1"
+       x="41.535393"
+       y="214.03796"
+       id="text7559"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7557"
+         x="41.535393"
+         y="214.03796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke:none;stroke-width:0.26455671;stroke-opacity:1"><tspan
+           style="fill:#008000;stroke-width:0.26455671"
+           id="tspan1684">SortNone</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;stroke:none;stroke-width:0.26455671;stroke-opacity:1"
+           id="tspan1652">, SortLengthFirst, SortBytewiseLexical</tspan></tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="3.9096482"
+       y="231.90164"
+       id="text7563"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7561"
+         x="3.9096482"
+         y="231.90164"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671">Time</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7571"
+       y="231.45032"
+       x="41.535393"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"
+         y="231.45032"
+         x="41.535393"
+         id="tspan7569"
+         sodipodi:role="line"><tspan
+           style="fill:#008000;stroke-width:0.26455671"
+           id="tspan1686">TimeUnix</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;stroke-width:0.26455671"
+           id="tspan1654">, TimeUnixMicro, TimeUnixDynamic, TimeRFC3339, TimeRFC3339Nano</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7575"
+       y="241.47733"
+       x="3.9096482"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671"
+         y="241.47733"
+         x="3.9096482"
+         id="tspan7573"
+         sodipodi:role="line">TimeTag</tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="41.535393"
+       y="241.50363"
+       id="text7583"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7581"
+         x="41.535393"
+         y="241.50363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#008000;stroke-width:0.26455671"
+   id="tspan1656">EncTagNone</tspan>, EncTagRequired</tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="3.8793013"
+       y="262.36359"
+       id="text7587"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7585"
+         x="3.8793013"
+         y="262.36359"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671">InfConvert</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7595"
+       y="262.1167"
+       x="41.535393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"
+         y="262.1167"
+         x="41.535393"
+         id="tspan7593"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#008000;stroke-width:0.26455671"
+   id="tspan1660">InfConvertFloat16</tspan>, InfConvertNone</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7599"
+       y="272.59653"
+       x="4.1120372"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671"
+         y="272.59653"
+         x="4.1120372"
+         id="tspan7597"
+         sodipodi:role="line">NaNConvert</tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="41.535393"
+       y="272.19278"
+       id="text7607"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7605"
+         x="41.535393"
+         y="272.19278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#008000;stroke-width:0.26455671"
+   id="tspan1662">NaNConvert7e00</tspan>, NaNConvertNone, NaNConvertQuiet, NaNConvertPreserveSignal</tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="3.9096482"
+       y="282.52176"
+       id="text7611"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7609"
+         x="3.9096482"
+         y="282.52176"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671">IndefLength</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7619"
+       y="282.52176"
+       x="41.535393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"
+         y="282.52176"
+         x="41.535393"
+         id="tspan7617"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#008000;stroke-width:0.26455671"
+   id="tspan1664">IndefLengthAllowed</tspan>, IndefLengthForbidden</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7623"
+       y="293.16458"
+       x="4.0614591"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671"
+         y="293.16458"
+         x="4.0614591"
+         id="tspan7621"
+         sodipodi:role="line">TagsMd</tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="41.535393"
+       y="293.16458"
+       id="text7631"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7629"
+         x="41.535393"
+         y="293.16458"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#008000;stroke-width:0.26455671"
+   id="tspan1666">TagsAllowed</tspan>, TagsForbidden</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text7683"
+       y="252.03459"
+       x="3.9096482"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#4d4d4d;stroke-width:0.26455671"
+         y="252.03459"
+         x="3.9096482"
+         id="tspan7681"
+         sodipodi:role="line">ShortestFloat</tspan></text>
+    <text
+       transform="scale(1.0001007,0.99989931)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671"
+       x="41.535393"
+       y="251.78767"
+       id="text7691"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016"><tspan
+         sodipodi:role="line"
+         id="tspan7689"
+         x="41.535393"
+         y="251.78767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke-width:0.26455671"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#008000;stroke-width:0.26455671"
+   id="tspan1658">ShortestFloatNone</tspan>, ShortestFloat16</tspan></text>
+    <text
+       inkscape:export-ydpi="96.00016"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-filename="/home/guest/Desktop/cbor/cbor_safety_comparison_v2.2.png"
+       id="text1672"
+       y="221.44574"
+       x="41.535393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93839073px;line-height:23.99999946%;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26455671;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0001007,0.99989931)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14475679px;font-family:SF Pro Text, Helvetica Neue, Segoe UI, Roboto, Liberation Sans, Noto, Droid Sans, Arial, sans-serif;fill:#333333;stroke:none;stroke-width:0.26455671;stroke-opacity:1"
+         y="221.44574"
+         x="41.535393"
+         id="tspan1670"
+         sodipodi:role="line">Aliases: SortCanonical, SortCTAP2, SortCoreDeterministic</tspan></text>
+  </g>
 </svg>
