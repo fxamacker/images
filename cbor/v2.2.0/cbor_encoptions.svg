@@ -1,69 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="810" height="378" viewBox="0 0 214.313 100.013">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138.141H214.17v10.293H.138z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 37.98H214.17v10.293H.138z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 48.3H214.17v10.292H.138z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 58.62H214.17v10.292H.138z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 68.94H214.17v10.292H.138z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 79.258H214.17v10.293H.138z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 89.535H214.17v10.378H.138z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".254" stroke-linejoin="round" d="M.133 10.446h213.952V27.8H.133z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.138 27.66H214.17v10.293H.138z"/>
-  <text y="204.049" x="6.763" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="204.049" x="6.763" font-size="4.233">EncOptions</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="378" viewBox="0 0 222.25 100.013">
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132.113h221.985v10.292H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 37.95h221.985V48.24H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 48.27h221.985V58.56H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 58.588h221.985V68.88H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 68.907h221.985V79.2H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 79.226h221.985v10.292H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 89.502h221.985V99.88H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.417h221.985V27.77H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 27.63h221.985v10.292H.132z"/>
+  <text y="204.018" x="6.763" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="204.018" x="6.763" font-size="4.233">EncOptions</tspan>
   </text>
-  <text y="217.651" x="4.005" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="217.651" x="4.005" font-size="4.145" fill="#4d4d4d">Sort</tspan>
+  <text y="217.62" x="4.005" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="217.62" x="4.005" font-size="4.145" fill="#4d4d4d">Sort</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="80.697" y="204.049" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="80.697" y="204.049" font-size="4.233">Available Settings (defaults in bold+green)</tspan>
+  <text style="line-height:23.99999946%" x="80.697" y="204.018" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="80.697" y="204.018" font-size="4.233">Available Settings (defaults in bold+green)</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".04" stroke-linejoin="round" d="M37.855.032h.224v99.944h-.224z"/>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="213.417" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="213.417" font-weight="700" font-size="4.145"><tspan fill="green">SortNone</tspan><tspan font-weight="400">, SortLengthFirst, SortBytewiseLexical</tspan></tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".04" stroke-linejoin="round" d="M37.855.001h.224v99.944h-.224z"/>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="213.386" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="41.539" y="213.386" font-weight="700" font-size="4.145"><tspan fill="green">SortNone</tspan><tspan font-weight="400">, SortLengthFirst, SortBytewiseLexical</tspan></tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.91" y="231.409" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="3.91" y="231.409" font-size="4.145" fill="#4d4d4d">Time</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.91" y="231.378" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="3.91" y="231.378" font-size="4.145" fill="#4d4d4d">Time</tspan>
   </text>
-  <text y="231.512" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="231.512" x="41.539" font-size="4.145"><tspan fill="green">TimeUnix</tspan><tspan font-weight="400">, TimeUnixMicro, TimeUnixDynamic, TimeRFC3339, TimeRFC3339Nano</tspan></tspan>
+  <text y="231.481" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="231.481" x="41.539" font-size="4.145"><tspan fill="green">TimeUnix</tspan><tspan font-weight="400">, TimeUnixMicro, TimeUnixDynamic, TimeRFC3339, TimeRFC3339Nano</tspan></tspan>
   </text>
-  <text y="241.873" x="3.91" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="241.873" x="3.91" font-size="4.145" fill="#4d4d4d">TimeTag</tspan>
+  <text y="241.842" x="3.91" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="241.842" x="3.91" font-size="4.145" fill="#4d4d4d">TimeTag</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="242.053" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="242.053" font-size="4.145"><tspan font-weight="700" fill="green">EncTagNone</tspan>, EncTagRequired</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="242.022" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="41.539" y="242.022" font-size="4.145"><tspan font-weight="700" fill="green">EncTagNone</tspan>, EncTagRequired</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.88" y="262.155" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="3.88" y="262.155" font-size="4.145" fill="#4d4d4d">InfConvert</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.88" y="262.124" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="3.88" y="262.124" font-size="4.145" fill="#4d4d4d">InfConvert</tspan>
   </text>
-  <text y="262.317" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="262.317" x="41.539" font-size="4.145"><tspan font-weight="700" fill="green">InfConvertFloat16</tspan>, InfConvertNone</tspan>
+  <text y="262.286" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="262.286" x="41.539" font-size="4.145"><tspan font-weight="700" fill="green">InfConvertFloat16</tspan>, InfConvertNone</tspan>
   </text>
-  <text y="272.482" x="4.112" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan y="272.482" x="4.112" font-size="4.145">NaNConvert</tspan>
+  <text y="272.451" x="4.112" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+    <tspan y="272.451" x="4.112" font-size="4.145">NaNConvert</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="272.616" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="272.616" font-size="4.145"><tspan font-weight="700" fill="green">NaNConvert7e00</tspan>, NaNConvertNone, NaNConvertQuiet, NaNConvertPreserveSignal</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="272.585" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="41.539" y="272.585" font-size="4.145"><tspan font-weight="700" fill="green">NaNConvert7e00</tspan>, NaNConvertNone, NaNConvertQuiet, NaNConvertPreserveSignal</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.91" y="282.766" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan x="3.91" y="282.766" font-size="4.145">IndefLength</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="3.91" y="282.735" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+    <tspan x="3.91" y="282.735" font-size="4.145">IndefLength</tspan>
   </text>
-  <text y="282.903" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="282.903" x="41.539" font-size="4.145"><tspan font-weight="700" fill="green">IndefLengthAllowed</tspan>, IndefLengthForbidden</tspan>
+  <text y="282.872" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="282.872" x="41.539" font-size="4.145"><tspan font-weight="700" fill="green">IndefLengthAllowed</tspan>, IndefLengthForbidden</tspan>
   </text>
-  <text y="293.168" x="4.062" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan y="293.168" x="4.062" font-size="4.145">TagsMd</tspan>
+  <text y="293.137" x="4.062" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+    <tspan y="293.137" x="4.062" font-size="4.145">TagsMd</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="293.433" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="293.433" font-size="4.145"><tspan font-weight="700" fill="green">TagsAllowed</tspan>, TagsForbidden</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="293.402" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="41.539" y="293.402" font-size="4.145"><tspan font-weight="700" fill="green">TagsAllowed</tspan>, TagsForbidden</tspan>
   </text>
-  <text y="251.996" x="3.91" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="251.996" x="3.91" font-size="4.145" fill="#4d4d4d">ShortestFloat</tspan>
+  <text y="251.965" x="3.91" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="251.965" x="3.91" font-size="4.145" fill="#4d4d4d">ShortestFloat</tspan>
   </text>
-  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="252.03" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="41.539" y="252.03" font-size="4.145"><tspan font-weight="700" fill="green">ShortestFloatNone</tspan>, ShortestFloat16</tspan>
+  <text transform="matrix(1 0 0 1 0 -196.988)" style="line-height:23.99999946%" x="41.539" y="251.999" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="41.539" y="251.999" font-size="4.145"><tspan font-weight="700" fill="green">ShortestFloatNone</tspan>, ShortestFloat16</tspan>
   </text>
-  <text y="220.826" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="220.826" x="41.539" font-size="4.145">Aliases: SortCanonical, SortCTAP2, SortCoreDeterministic</tspan>
+  <text y="220.795" x="41.539" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -196.988)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="220.795" x="41.539" font-size="4.145">Aliases: SortCanonical, SortCTAP2, SortCoreDeterministic</tspan>
   </text>
 </svg>
