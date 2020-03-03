@@ -1,43 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="117" viewBox="0 0 232.833 30.956">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132-.067h232.569v10.32H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.22H232.7v10.318H.132z"/>
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132-.133h232.569v10.32H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.186H232.7v10.32H.132z"/>
   <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 20.505H232.7v10.32H.132z"/>
-  <text y="272.476" x="71.617" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.044)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan y="272.476" x="71.617" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
-  </text>
   <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M135.676-.179h.243v30.933h-.243z"/>
-  <text y="282.789" x="99.277" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.044)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="282.789" x="99.277" font-size="4.149">2 allocs/op</tspan>
-  </text>
-  <text style="line-height:23.99999946%" x="166.368" y="272.476" transform="matrix(1 0 0 1 0 -266.044)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="166.368" y="272.476" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
-  </text>
+  <g font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <text style="line-height:23.99999946%" x="71.088" y="272.476" transform="matrix(1 0 0 1 0 -266.335)">
+      <tspan x="71.088" y="272.476" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
+    </text>
+    <text y="272.476" x="165.309" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.335)">
+      <tspan y="272.476" x="165.309" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
+    </text>
+  </g>
   <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M51.01-.179h.243v30.933h-.243z"/>
-  <text transform="matrix(1 0 0 1 0 -266.044)" style="line-height:23.99999946%" x="2.784" y="282.789" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="2.784" y="282.789" font-size="4.145">Encode CWT Claims</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -266.044)" y="293.107" x="2.784" style="line-height:23.99999946%" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="293.107" x="2.784" font-size="4.145">Decode CWT Claims</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -266.044)" style="line-height:23.99999946%" x="64.881" y="282.789" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="64.881" y="282.789" font-size="4.149">176 B/op</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -266.044)" style="line-height:23.99999946%" x="99.277" y="293.372" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="99.277" y="293.372" font-size="4.149">6 allocs/op</tspan>
-  </text>
-  <text y="293.372" x="64.881" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.044)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="293.372" x="64.881" font-size="4.149">176 B/op</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -266.044)" style="line-height:23.99999946%" x="186.588" y="282.789" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="186.588" y="282.789" font-size="4.149">4 allocs/op</tspan>
-  </text>
-  <text y="282.789" x="153.78" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.044)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="282.789" x="153.78" font-size="4.149">1424 B/op</tspan>
-  </text>
-  <text y="293.372" x="186.588" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.044)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="293.372" x="186.588" font-size="4.149">6 allocs/op</tspan>
-  </text>
-  <text transform="matrix(1 0 0 1 0 -266.044)" style="line-height:23.99999946%" x="155.897" y="293.372" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="155.897" y="293.372" font-size="4.149">568 B/op</tspan>
-  </text>
+  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <text style="line-height:23.99999946%" x="99.277" y="282.789" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan x="99.277" y="282.789" font-size="4.149">2 allocs/op</tspan>
+    </text>
+    <text y="282.789" x="2.784" style="line-height:23.99999946%" font-weight="600" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan y="282.789" x="2.784" font-size="4.145">Encode CWT Claims</tspan>
+    </text>
+    <text y="282.789" x="64.881" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan y="282.789" x="64.881" font-size="4.149">176 B/op</tspan>
+    </text>
+    <text y="282.789" x="186.588" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan y="282.789" x="186.588" font-size="4.149">4 allocs/op</tspan>
+    </text>
+    <text style="line-height:23.99999946%" x="153.78" y="282.789" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan x="153.78" y="282.789" font-size="4.149">1424 B/op</tspan>
+    </text>
+  </g>
+  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <text style="line-height:23.99999946%" x="2.784" y="293.107" font-weight="600" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan x="2.784" y="293.107" font-size="4.145">Decode CWT Claims</tspan>
+    </text>
+    <text y="293.107" x="99.277" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan y="293.107" x="99.277" font-size="4.149">6 allocs/op</tspan>
+    </text>
+    <text style="line-height:23.99999946%" x="64.881" y="293.107" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan x="64.881" y="293.107" font-size="4.149">176 B/op</tspan>
+    </text>
+    <text style="line-height:23.99999946%" x="186.588" y="293.107" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan x="186.588" y="293.107" font-size="4.149">6 allocs/op</tspan>
+    </text>
+    <text y="293.107" x="155.897" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
+      <tspan y="293.107" x="155.897" font-size="4.149">568 B/op</tspan>
+    </text>
+  </g>
 </svg>

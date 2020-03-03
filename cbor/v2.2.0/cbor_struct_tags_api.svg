@@ -11,100 +11,100 @@
     </marker>
   </defs>
   <text style="line-height:125%" y="216.093" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="0" y="216.093" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace" fill="green">// Example: CBOR Web Token (RFC 8392)</tspan>
+    <tspan x="0" y="216.093" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace" fill="green">// Example: CBOR Web Token (RFC 8392)</tspan>
   </text>
   <text y="221.384" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="221.384" x="0" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#00f">type</tspan> <tspan fill="#333">coseHeader</tspan> <tspan fill="#00f">struct</tspan> {</tspan>
+    <tspan style="line-height:100%" y="221.384" x="0" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#00f">type</tspan> <tspan fill="#333">coseHeader</tspan> <tspan fill="#00f">struct</tspan> {</tspan>
   </text>
   <text style="line-height:125%" x="32.279" y="226.676" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="32.279" y="226.676" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="maroon">`cbor:&quot;1,keyasint,omitempty&quot;`</tspan></tspan>
+    <tspan x="32.279" y="226.676" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="maroon">`cbor:&quot;1,keyasint,omitempty&quot;`</tspan></tspan>
   </text>
   <text y="231.968" x="32.279" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="231.968" x="32.279" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="maroon">`cbor:&quot;4,keyasint,omitempty&quot;`</tspan></tspan>
+    <tspan style="line-height:100%" y="231.968" x="32.279" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="maroon">`cbor:&quot;4,keyasint,omitempty&quot;`</tspan></tspan>
   </text>
   <text style="line-height:125%" y="237.259" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="0" y="237.259" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">}</tspan>
+    <tspan x="0" y="237.259" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">}</tspan>
   </text>
   <text y="245.197" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="245.197" x="0" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#00f">type</tspan> <tspan fill="#333">signedCWT</tspan> <tspan fill="#00f">struct</tspan> {</tspan>
+    <tspan style="line-height:100%" y="245.197" x="0" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#00f">type</tspan> <tspan fill="#333">signedCWT</tspan> <tspan fill="#00f">struct</tspan> {</tspan>
   </text>
   <text style="line-height:125%" x="34.925" y="250.488" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="34.925" y="250.488" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#00f">struct</tspan>{} <tspan fill="maroon">`cbor:&quot;,toarray&quot;`</tspan></tspan>
+    <tspan x="34.925" y="250.488" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#00f">struct</tspan>{} <tspan fill="maroon">`cbor:&quot;,toarray&quot;`</tspan></tspan>
   </text>
   <text y="255.78" x="34.925" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="255.78" x="34.925" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">[]<tspan fill="#00f">byte</tspan></tspan>
+    <tspan style="line-height:100%" y="255.78" x="34.925" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">[]<tspan fill="#00f">byte</tspan></tspan>
   </text>
   <text style="line-height:125%" x="6.879" y="261.071" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="6.879" y="261.071" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace" fill="#333">Unprotected coseHeader</tspan>
+    <tspan x="6.879" y="261.071" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace" fill="#333">Unprotected coseHeader</tspan>
   </text>
   <text y="266.363" x="34.925" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="266.363" x="34.925" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">[]<tspan fill="#00f">byte</tspan></tspan>
+    <tspan style="line-height:100%" y="266.363" x="34.925" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">[]<tspan fill="#00f">byte</tspan></tspan>
   </text>
   <text style="line-height:125%" y="276.946" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="0" y="276.946" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">}</tspan>
+    <tspan x="0" y="276.946" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">}</tspan>
   </text>
   <text y="285.413" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="285.413" x="0" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace" fill="green">// Decode []byte into signedCWT struct</tspan>
+    <tspan style="line-height:100%" y="285.413" x="0" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace" fill="green">// Decode []byte into signedCWT struct</tspan>
   </text>
   <text style="line-height:125%" y="290.704" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="0" y="290.704" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace" fill="#333"><tspan fill="#00f">var</tspan> v signedCWT</tspan>
+    <tspan x="0" y="290.704" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace" fill="#333"><tspan fill="#00f">var</tspan> v signedCWT</tspan>
   </text>
   <text style="line-height:125%" y="295.996" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="0" y="295.996" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace" fill="#333">err := cbor.Unmarshal(t, &amp;v)</tspan>
+    <tspan x="0" y="295.996" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace" fill="#333">err := cbor.Unmarshal(t, &amp;v)</tspan>
   </text>
-  <text y="235.382" x="117.283" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan y="235.382" x="117.283" font-size="4.233">elements of CBOR map with int keys.</tspan>
+  <text y="235.393" x="117.283" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan y="235.393" x="117.283" font-size="4.233">elements of CBOR map with int keys.</tspan>
   </text>
-  <text y="250.728" x="117.451" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan y="250.728" x="117.451"><tspan font-weight="700">toarray</tspan><tspan> </tspan><tspan font-size="4.233">translates struct fields to</tspan></tspan>
+  <text y="250.834" x="117.451" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan y="250.834" x="117.451"><tspan font-weight="700">toarray</tspan><tspan> </tspan><tspan font-size="4.233">translates struct fields to</tspan></tspan>
   </text>
-  <text style="line-height:23.99999946%" x="117.283" y="257.607" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="117.283" y="257.607" font-size="4.233">elements of CBOR arrays.</tspan>
+  <text style="line-height:23.99999946%" x="117.283" y="257.618" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan x="117.283" y="257.618" font-size="4.233">elements of CBOR arrays.</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="117.456" y="289.104" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="117.456" y="289.104"><tspan font-weight="700">API</tspan><tspan> </tspan><tspan font-size="4.233">uses same function signatures</tspan></tspan>
+  <text style="line-height:23.99999946%" x="117.456" y="289.368" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan x="117.456" y="289.368"><tspan font-weight="700">API</tspan><tspan> </tspan><tspan font-size="4.233">uses same function signatures</tspan></tspan>
   </text>
   <text y="295.983" x="117.223" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
     <tspan y="295.983" x="117.223" font-size="4.233">as Go&apos;s json/encoding package.</tspan>
   </text>
   <text style="line-height:125%" x="34.925" y="271.655" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="34.925" y="271.655" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">[]<tspan fill="#00f">byte</tspan></tspan>
+    <tspan x="34.925" y="271.655" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">[]<tspan fill="#00f">byte</tspan></tspan>
   </text>
   <text y="216.093" x="117.349" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
     <tspan style="line-height:100%" y="216.093" x="117.349" font-size="4.233" fill="green">fxamacker/cbor struct tags and API</tspan>
   </text>
-  <text y="228.503" x="117.205" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan y="228.503" x="117.205"><tspan font-weight="700">keyasint</tspan><tspan font-size="4.233"> translates struct fields to</tspan></tspan>
+  <text y="228.609" x="117.205" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan y="228.609" x="117.205"><tspan font-weight="700">keyasint</tspan><tspan font-size="4.233"> translates struct fields to</tspan></tspan>
   </text>
   <text y="226.676" x="6.879" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="226.676" x="6.879" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#333">Alg</tspan> <tspan fill="#00f">int</tspan></tspan>
+    <tspan style="line-height:100%" y="226.676" x="6.879" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#333">Alg</tspan> <tspan fill="#00f">int</tspan></tspan>
   </text>
   <text style="line-height:125%" x="6.879" y="231.968" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="6.879" y="231.968" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#333">Kid</tspan> []<tspan fill="#00f">byte</tspan></tspan>
+    <tspan x="6.879" y="231.968" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#333">Kid</tspan> []<tspan fill="#00f">byte</tspan></tspan>
   </text>
   <text y="250.488" x="6.879" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="250.488" x="6.879" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">_</tspan>
+    <tspan style="line-height:100%" y="250.488" x="6.879" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">_</tspan>
   </text>
   <text style="line-height:125%" x="6.879" y="255.78" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="6.879" y="255.78" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#333">Protected</tspan></tspan>
+    <tspan x="6.879" y="255.78" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#333">Protected</tspan></tspan>
   </text>
   <text style="line-height:125%" x="6.879" y="266.363" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="6.879" y="266.363" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace">Payload</tspan>
+    <tspan x="6.879" y="266.363" style="line-height:100%" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace">Payload</tspan>
   </text>
   <text y="271.655" x="6.879" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="271.655" x="6.879" font-size="3.881" font-family="'SF Mono',Menlo,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',Monaco,monospace"><tspan fill="#333">Signature</tspan></tspan>
+    <tspan style="line-height:100%" y="271.655" x="6.879" font-size="3.881" font-family="'SF Mono',Menlo,Monaco,Consolas,'Roboto Mono','Source Code Pro','Liberation Mono','DejaVu Sans Mono',monospace"><tspan fill="#333">Signature</tspan></tspan>
   </text>
   <path d="M88.257 188.143h-9.071" transform="matrix(-.64243 0 0 1 163.927 -173.553)" fill="green" stroke="green" stroke-width=".33" marker-start="url(#a)"/>
-  <path transform="matrix(-.64243 0 0 1 163.927 -151.328)" d="M88.257 188.143h-9.071" fill="green" stroke="green" stroke-width=".33" marker-start="url(#b)"/>
-  <path d="M88.257 188.143h-9.071" transform="matrix(-.64243 0 0 1 163.927 -113.228)" fill="green" stroke="green" stroke-width=".33" marker-start="url(#c)"/>
-  <text style="line-height:125%" x="117.173" y="269.614" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="117.173" y="269.614" style="line-height:100%" font-size="4.233">Enable options like detecting</tspan>
+  <path transform="matrix(-.64243 0 0 1 163.927 -151.213)" d="M88.257 188.143h-9.071" fill="green" stroke="green" stroke-width=".33" marker-start="url(#b)"/>
+  <path d="M88.257 188.143h-9.071" transform="matrix(-.64243 0 0 1 163.927 -112.825)" fill="green" stroke="green" stroke-width=".33" marker-start="url(#c)"/>
+  <text style="line-height:125%" x="117.173" y="269.525" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan x="117.173" y="269.525" style="line-height:100%" font-size="4.233">Enable options (if required) like</tspan>
   </text>
-  <text y="274.905" x="117.173" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan style="line-height:100%" y="274.905" x="117.173" font-size="4.233">duplicate map keys (if required).</tspan>
+  <text y="276.139" x="117.173" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
+    <tspan style="line-height:100%" y="276.139" x="117.173" font-size="4.233">detecting duplicate map keys.</tspan>
   </text>
   <g fill="green">
-    <path d="M109.556 54.908a2.019 2.019 0 012.018 2.019 2.467 2.467 0 01-.403 1.328c-.09.166-.186.347-.291.565a2.624 2.624 0 00-.154.404c0 .037-.024.085-.036.121h-2.249c0-.036-.028-.084-.036-.12a2.624 2.624 0 00-.154-.405 11.67 11.67 0 00-.29-.565 2.467 2.467 0 01-.424-1.328 2.019 2.019 0 012.019-2.02m0-.403a2.423 2.423 0 00-2.423 2.423c0 .807.31 1.159.759 2.071.174.351.15.755.452.755h2.423c.303 0 .278-.404.456-.755.444-.912.755-1.264.755-2.071a2.423 2.423 0 00-2.422-2.423zM108.796 61.772a.828.828 0 00.76.404.828.828 0 00.759-.404z"/>
-    <path d="M108.344 59.753v.238l1.837.166a.202.202 0 01-.02.404h-.02l-1.797-.166v.404l1.837.165a.202.202 0 01-.02.404h-.02l-1.797-.165v.165a.404.404 0 00.404.404h1.615a.404.404 0 00.404-.404v-1.615z"/>
+    <path d="M109.556 55.173a2.019 2.019 0 012.018 2.018 2.467 2.467 0 01-.403 1.329c-.09.165-.186.347-.291.565a2.624 2.624 0 00-.154.404c0 .036-.024.085-.036.12h-2.249c0-.035-.028-.084-.036-.12a2.624 2.624 0 00-.154-.404 11.67 11.67 0 00-.29-.565 2.467 2.467 0 01-.424-1.329 2.019 2.019 0 012.019-2.018m0-.404a2.423 2.423 0 00-2.423 2.422c0 .808.31 1.16.759 2.072.174.35.15.755.452.755h2.423c.303 0 .278-.404.456-.755.444-.913.755-1.264.755-2.072a2.423 2.423 0 00-2.422-2.422zM108.796 62.037a.828.828 0 00.76.403.828.828 0 00.759-.403z"/>
+    <path d="M108.344 60.018v.238l1.837.165a.202.202 0 01-.02.404h-.02l-1.797-.165v.403l1.837.166a.202.202 0 01-.02.404h-.02l-1.797-.166v.166a.404.404 0 00.404.404h1.615a.404.404 0 00.404-.404v-1.615z"/>
   </g>
 </svg>
