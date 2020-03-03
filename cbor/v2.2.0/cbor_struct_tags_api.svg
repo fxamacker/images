@@ -98,7 +98,7 @@
   <path transform="matrix(-.64243 0 0 1 163.927 -151.328)" d="M88.257 188.143h-9.071" fill="green" stroke="green" stroke-width=".33" marker-start="url(#b)"/>
   <path d="M88.257 188.143h-9.071" transform="matrix(-.64243 0 0 1 163.927 -113.228)" fill="green" stroke="green" stroke-width=".33" marker-start="url(#c)"/>
   <text style="line-height:125%" x="117.173" y="269.614" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="117.173" y="269.614" style="line-height:100%" font-size="4.233">Enable options like rejecting</tspan>
+    <tspan x="117.173" y="269.614" style="line-height:100%" font-size="4.233">Enable options like detecting</tspan>
   </text>
   <text y="274.905" x="117.173" style="line-height:125%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
     <tspan style="line-height:100%" y="274.905" x="117.173" font-size="4.233">duplicate map keys (if required).</tspan>
