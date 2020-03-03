@@ -1,58 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="810" height="312" viewBox="0 0 214.313 82.55">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 1.32h214.032v10.292H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 21.532h214.032v10.292H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 31.811h214.032v10.292H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 41.98h214.032v10.292H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 51.976h214.032v10.292H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 62.06h214.032v10.292H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 72.041h214.032v10.377H.132zM.132 11.529h214.032v10.292H.132z"/>
-  <text y="222.03" x="10.99" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="222.03" x="10.99" font-size="4.233">DecOptions</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="307" viewBox="0 0 214.313 81.227">
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132-.003h214.032V10.29H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 20.21h214.032V30.5H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 30.488h214.032V40.78H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 40.657h214.032V50.95H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 50.653h214.032v10.292H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 60.737h214.032V71.03H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 70.718h214.032v10.377H.132zM.132 10.206h214.032v10.292H.132z"/>
+  <text y="222.041" x="10.99" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -215.773)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="222.041" x="10.99" font-size="4.233">DecOptions</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="89.681" y="222.041" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="89.681" y="222.041" font-size="4.233">Available Settings (defaults in bold+green)</tspan>
+  <text style="line-height:23.99999946%" x="87.565" y="222.041" transform="matrix(1.00007 0 0 .99993 0 -215.773)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="87.565" y="222.041" font-size="4.233">Available Settings (defaults in bold+green)</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".036" stroke-linejoin="round" d="M52.137.018h.224V82.48h-.224z"/>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="3.904" y="232.191" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="3.904" y="232.191" font-size="4.145" fill="#4d4d4d">TimeTag</tspan>
-  </text>
-  <text y="232.218" x="56.875" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="232.218" x="56.875" font-size="4.145"><tspan fill="green">DecTagIgnored</tspan><tspan font-weight="400">, DecTagOptional, DecTagRequired</tspan></tspan>
-  </text>
-  <text y="242.126" x="3.904" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="242.126" x="3.904" font-size="4.145" fill="#4d4d4d">DupMapKey</tspan>
-  </text>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="56.875" y="242.232" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="56.875" y="242.232" font-size="4.145"><tspan font-weight="700" fill="green">DupMapKeyQuiet</tspan>, DupMapKeyEnforcedAPF</tspan>
-  </text>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="3.873" y="262.671" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".036" stroke-linejoin="round" d="M52.137-.034h.224v81.191h-.224z"/>
+  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <text y="232.191" x="3.904" style="line-height:23.99999946%" font-weight="600" transform="matrix(1.00007 0 0 .99993 0 -215.747)">
+      <tspan y="232.191" x="3.904" font-size="4.145" fill="#4d4d4d">TimeTag</tspan>
+    </text>
+    <text style="line-height:23.99999946%" x="56.875" y="232.191" font-weight="700" transform="matrix(1.00007 0 0 .99993 0 -215.747)">
+      <tspan x="56.875" y="232.191" font-size="4.145"><tspan fill="green">DecTagIgnored</tspan><tspan font-weight="400">, DecTagOptional, DecTagRequired</tspan></tspan>
+    </text>
+  </g>
+  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <text style="line-height:23.99999946%" x="3.904" y="242.125" font-weight="600" transform="matrix(1.00007 0 0 .99993 0 -215.667)">
+      <tspan x="3.904" y="242.125" font-size="4.145" fill="#4d4d4d">DupMapKey</tspan>
+    </text>
+    <text y="242.125" x="56.875" style="line-height:23.99999946%" font-weight="400" transform="matrix(1.00007 0 0 .99993 0 -215.667)">
+      <tspan y="242.125" x="56.875" font-size="4.145"><tspan font-weight="700" fill="green">DupMapKeyQuiet</tspan>, DupMapKeyEnforcedAPF</tspan>
+    </text>
+  </g>
+  <text transform="matrix(1.00007 0 0 .99993 0 -215.773)" style="line-height:23.99999946%" x="3.873" y="262.671" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="3.873" y="262.671" font-size="4.145" fill="#4d4d4d">TagsMd</tspan>
   </text>
-  <text y="262.671" x="56.875" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text y="262.671" x="56.875" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -215.773)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan y="262.671" x="56.875" font-size="4.145"><tspan font-weight="700" fill="green">TagsAllowed</tspan>, TagsForbidden</tspan>
   </text>
-  <text y="273.145" x="4.106" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+  <text y="273.145" x="4.106" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -215.773)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
     <tspan y="273.145" x="4.106" font-size="4.145">MaxNestedLevels</tspan>
   </text>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="56.875" y="272.837" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text transform="matrix(1.00007 0 0 .99993 0 -215.773)" style="line-height:23.99999946%" x="56.875" y="272.837" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="56.875" y="272.837" font-size="4.145"><tspan font-weight="700" fill="green">32</tspan>, can be set to [4, 256]</tspan>
   </text>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="3.904" y="282.752" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
+  <text transform="matrix(1.00007 0 0 .99993 0 -215.773)" style="line-height:23.99999946%" x="3.904" y="282.752" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
     <tspan x="3.904" y="282.752" font-size="4.145">MaxArrayElements</tspan>
   </text>
-  <text y="282.922" x="56.875" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text y="282.922" x="56.875" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -215.773)" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan y="282.922" x="56.875" font-size="4.145"><tspan font-weight="700" fill="green">131072</tspan>, can be set to [16, 134217728]</tspan>
   </text>
-  <text y="292.75" x="4.056" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265">
-    <tspan y="292.75" x="4.056" font-size="4.145">MaxMapPairs</tspan>
-  </text>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="56.875" y="292.946" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="56.875" y="292.946" font-size="4.145"><tspan font-weight="700" fill="green">131072</tspan>, can be set to [16, 134217728]</tspan>
-  </text>
-  <text y="252.512" x="3.904" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -214.45)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <text style="line-height:23.99999946%" x="4.056" y="292.75" font-weight="600" fill="#4d4d4d" transform="matrix(1.00007 0 0 .99993 0 -215.747)">
+      <tspan x="4.056" y="292.75" font-size="4.145">MaxMapPairs</tspan>
+    </text>
+    <text y="292.75" x="56.875" style="line-height:23.99999946%" font-weight="400" fill="#333" transform="matrix(1.00007 0 0 .99993 0 -215.747)">
+      <tspan y="292.75" x="56.875" font-size="4.145"><tspan font-weight="700" fill="green">131072</tspan>, can be set to [16, 134217728]</tspan>
+    </text>
+  </g>
+  <text y="252.512" x="3.904" style="line-height:23.99999946%" transform="matrix(1.00007 0 0 .99993 0 -215.773)" font-weight="600" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan y="252.512" x="3.904" font-size="4.145" fill="#4d4d4d">IndefLength</tspan>
   </text>
-  <text transform="matrix(1.00007 0 0 .99993 0 -214.45)" style="line-height:23.99999946%" x="56.875" y="252.512" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Liberation Sans,Noto,Droid Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text transform="matrix(1.00007 0 0 .99993 0 -215.773)" style="line-height:23.99999946%" x="56.875" y="252.512" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="56.875" y="252.512" font-size="4.145"><tspan font-weight="700" fill="green">IndefLengthAllowed</tspan>, IndefLengthForbidden</tspan>
   </text>
 </svg>
