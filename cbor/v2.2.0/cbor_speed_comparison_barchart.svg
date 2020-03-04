@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="250" viewBox="0 0 197.379 66.146">
+  <path fill="#fff" stroke="#fff" stroke-width=".426" d="M.213.213h196.953v65.719H.213z"/>
+  <path fill="#999" stroke-width=".085" stroke-linejoin="round" d="M119.484 42.855h.265V46.1h-.265z"/>
+  <text y="242.935" x=".066" style="line-height:23.99999946%" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan y="242.935" x=".066" font-size="3.874" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#666">Using Go structs with example data from RFC 8392 Appendix A.1</tspan>
+  </text>
+  <text y="237.607" x=".066" style="line-height:23.99999946%" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan style="-inkscape-font-specification:'Inter Medium'" y="237.607" x=".066" font-weight="500" font-size="4.227" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#333">CBOR Speed Comparison</tspan>
+  </text>
+  <text y="291.384" x=".066" style="line-height:23.99999946%" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan y="291.384" x=".066" font-size="3.874" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#666">codec.CborHandle (ugorji/go) is created outside the benchmark loop.</tspan>
+  </text>
+  <path fill="#4285f4" stroke="#fff" stroke-width=".339" d="M-62.498-360.094h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 204.22 378.167)"/>
+  <text y="-356.793" x="-56.591" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 204.22 378.167)">
+    <tspan y="-356.793" x="-56.591" font-weight="700" font-size="4.24" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#4080ff">fxamacker/cbor 2.2</tspan>
+  </text>
+  <path fill="#db4437" stroke="#fff" stroke-width=".339" d="M-62.272-349.472h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 203.994 386.754)"/>
+  <text y="-346.168" x="-56.489" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 203.994 386.754)">
+    <tspan y="-346.168" x="-56.489" font-weight="700" font-size="4.24" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#c04020">ugorji/go 1.1.7</tspan>
+  </text>
+  <text style="line-height:1em" x="147.087" y="259.087" transform="matrix(1.00162 0 0 .99839 -.025 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="147.087" y="259.087" style="line-height:50%" font-size="3.528" fill="#666">not using Go&apos;s unsafe pkg</tspan>
+  </text>
+  <text style="line-height:1em" x="147.056" y="263.771" transform="matrix(1.00162 0 0 .99839 -.025 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="147.056" y="263.771" style="line-height:50%;-inkscape-font-specification:'Open Sans'" font-size="3.528" font-family="Open Sans" fill="#666">not using code gen</tspan>
+  </text>
+  <text style="line-height:1em" x="147.087" y="278.432" transform="matrix(1.00162 0 0 .99839 -.025 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="147.087" y="278.432" style="line-height:50%" font-size="3.528" fill="#666">using Go&apos;s unsafe pkg</tspan>
+  </text>
+  <text style="line-height:1em" x="147.087" y="283.203" transform="matrix(1.00162 0 0 .99839 -.025 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan x="147.087" y="283.203" style="line-height:50%" font-size="3.528" fill="#666">using code gen</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="141.313" y="242.543" font-weight="400" font-size="4.939" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(-.025 -230.854)">
+    <tspan x="141.313" y="242.543" font-size="3.881">Using default build options</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="72.659" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan x="72.659" y="282.506" font-size="3.522" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">500 ns/op</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="112.602" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan x="112.602" y="282.506" font-size="3.522" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">1K ns/op</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="82.141" y="253.058" font-weight="400" font-size="3.881" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="82.141" y="253.058" font-size="3.528" fill="gray">← Faster</tspan>
+  </text>
+  <text transform="matrix(1.00162 0 0 .99839 0 -230.854)" y="282.506" x="41.756" style="line-height:23.99999946%" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan y="282.506" x="41.756" font-size="3.522" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">0</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="40.939" y="270.021" font-weight="400" font-size="4.939" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="40.939" y="270.021" style="text-align:end" font-size="3.528" text-anchor="end" fill="#4d4d4d">Decode CWT Claims</tspan>
+  </text>
+  <text y="255.533" x="40.944" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan style="text-align:end" y="255.533" x="40.944" font-size="3.528" text-anchor="end" fill="#4d4d4d">Encode CWT Claims</tspan>
+  </text>
+  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".347" stroke-linejoin="round" d="M43.285 18.765h34.338v4.914H43.285z"/>
+  <path fill="#999" stroke-width=".087" stroke-linejoin="round" d="M81.034 42.752h.265V46.1h-.265z"/>
+  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".274" stroke-linejoin="round" d="M43.252 33.214h58.586v4.754H43.252z"/>
+  <path fill="#db4436" stroke="#e0e0e0" stroke-width=".262" stroke-linejoin="round" d="M43.285 38.042h84.278v4.688H43.285z"/>
+  <path fill="#db4436" stroke="#e0e0e0" stroke-width=".247" stroke-linejoin="round" d="M43.284 23.753h74.663v4.69H43.284z"/>
+  <path fill="#999" stroke-width=".248" stroke-linejoin="round" d="M42.847 18.633h.265V46.1h-.265z"/>
+</svg>

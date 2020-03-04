@@ -1,64 +1,64 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="746" height="250" viewBox="0 0 197.379 66.146">
-  <path fill="#fff" stroke="#fff" stroke-width=".426" d="M.478.213h196.953v65.719H.478z"/>
-  <path fill="#ccc" stroke-width=".091" stroke-linejoin="round" d="M114.636 42.856h.301V46.1h-.301z"/>
+  <path fill="#fff" stroke="#fff" stroke-width=".426" d="M.213.213h196.953v65.719H.213z"/>
+  <path fill="#999" stroke-width=".085" stroke-linejoin="round" d="M114.545 42.856h.265V46.1h-.265z"/>
   <g font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <text style="line-height:23.99999946%" x="39.632" y="235.645" transform="matrix(1 0 0 .99678 -39.568 -223.197)">
-      <tspan x="39.632" y="235.645" font-size="3.881" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#4d4d4d">Same apps can be 4-9 MB smaller by using fxamacker/cbor</tspan>
+    <text style="line-height:23.99999946%" x="39.632" y="235.645" transform="matrix(1 0 0 .99678 -39.588 -223.197)">
+      <tspan x="39.632" y="235.645" font-size="3.881" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#666">Same apps can be 4-9 MB smaller by using fxamacker/cbor</tspan>
     </text>
-    <text style="line-height:23.99999946%" x="39.632" y="230.308" transform="matrix(1 0 0 .99678 -39.568 -223.197)">
-      <tspan x="39.632" y="230.308" font-size="4.233" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#333">CBOR Program Size Comparison</tspan>
+    <text style="line-height:23.99999946%" x="39.632" y="230.308" transform="matrix(1 0 0 .99678 -39.588 -223.197)">
+      <tspan x="39.632" y="230.308" style="-inkscape-font-specification:'Inter Medium'" font-weight="500" font-size="4.233" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#333">CBOR Program Size Comparison</tspan>
     </text>
-    <text style="line-height:23.99999946%" x="39.632" y="283.642" transform="matrix(1 0 0 .99678 -39.568 -223.197)">
-      <tspan x="39.632" y="283.642" font-size="3.881" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#666">MessagePack feature was removed from cisco/senml for all builds.</tspan>
+    <text style="line-height:23.99999946%" x="39.632" y="284.172" transform="matrix(1 0 0 .99678 -39.588 -223.197)">
+      <tspan x="39.632" y="284.172" font-size="3.881" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#666">MessagePack feature was removed from cisco/senml for all builds.</tspan>
     </text>
   </g>
-  <path fill="#4285f4" stroke="#fff" stroke-width=".339" d="M-62.498-360.094h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 204.245 378.018)"/>
-  <text y="-356.793" x="-56.591" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 204.245 378.018)">
-    <tspan y="-356.793" x="-56.591" font-weight="700" font-size="3.881" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#4080ff">fxamacker/cbor v2.2</tspan>
+  <text style="line-height:23.99999946%" x="73.961" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan x="73.961" y="282.506" font-size="3.522" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">5 MB</tspan>
   </text>
-  <path fill="#db4437" stroke="#fff" stroke-width=".339" d="M-62.272-349.472h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 204.02 386.778)"/>
-  <text y="-346.168" x="-56.489" style="line-height:23.99999946%" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 204.02 386.778)">
-    <tspan y="-346.168" x="-56.489" font-weight="700" font-size="3.881" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#c04020">ugorji/go v1.1.7</tspan>
+  <text style="line-height:23.99999946%" x="109.328" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan x="109.328" y="282.506" font-size="3.522" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">10 MB</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="77.678" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
-    <tspan x="77.678" y="282.506" font-size="3.522" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">5 MB</tspan>
+  <path fill="#4285f4" stroke="#fff" stroke-width=".339" d="M-62.498-360.094h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 203.955 378.167)"/>
+  <text style="line-height:23.99999946%" x="-56.591" y="-356.793" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 203.955 378.167)">
+    <tspan x="-56.591" y="-356.793" font-weight="700" font-size="4.24" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#4080ff">fxamacker/cbor 2.2</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="112.517" y="282.506" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
-    <tspan x="112.517" y="282.506" font-size="3.522" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">10 MB</tspan>
+  <path fill="#db4437" stroke="#fff" stroke-width=".339" d="M-62.272-349.472h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 203.73 386.754)"/>
+  <text style="line-height:23.99999946%" x="-56.489" y="-346.168" font-weight="400" font-size="5.644" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 203.73 386.754)">
+    <tspan x="-56.489" y="-346.168" font-weight="700" font-size="4.24" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#c04020">ugorji/go 1.1.7</tspan>
   </text>
-  <text style="line-height:1em" x="147.087" y="258.096" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="147.087" y="258.096" style="line-height:50%" font-size="3.175" fill="#4080ff">not using Go&apos;s unsafe pkg</tspan>
+  <text transform="matrix(1.00162 0 0 .99839 -.29 -230.854)" y="259.087" x="147.087" style="line-height:1em" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan style="line-height:50%" y="259.087" x="147.087" font-size="3.528" fill="#666">not using Go&apos;s unsafe pkg</tspan>
   </text>
-  <text style="line-height:1em" x="147.087" y="262.238" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="147.087" y="262.238" style="line-height:50%" font-size="3.175" fill="#4080ff">not using code gen</tspan>
+  <text transform="matrix(1.00162 0 0 .99839 -.29 -230.854)" y="263.771" x="147.056" style="line-height:1em" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan style="line-height:50%;-inkscape-font-specification:'Open Sans'" y="263.771" x="147.056" font-size="3.528" font-family="Open Sans" fill="#666">not using code gen</tspan>
   </text>
-  <text style="line-height:1em" x="147.49" y="278.293" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="147.49" y="278.293" style="line-height:50%" font-size="3.175" fill="#c04020">using Go&apos;s unsafe pkg</tspan>
+  <text transform="matrix(1.00162 0 0 .99839 -.29 -230.854)" y="278.432" x="147.087" style="line-height:1em" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan style="line-height:50%" y="278.432" x="147.087" font-size="3.528" fill="#666">using Go&apos;s unsafe pkg</tspan>
   </text>
-  <text style="line-height:1em" x="147.49" y="282.7" transform="matrix(1.00162 0 0 .99839 0 -230.854)" font-weight="400" font-size="5.635" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="147.49" y="282.7" style="line-height:50%" font-size="3.175" fill="#c04020">using code gen</tspan>
+  <text transform="matrix(1.00162 0 0 .99839 -.29 -230.854)" y="283.203" x="147.087" style="line-height:1em" font-weight="400" font-size="5.635" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <tspan style="line-height:50%" y="283.203" x="147.087" font-size="3.528" fill="#666">using code gen</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="141.313" y="242.295" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
-    <tspan x="141.313" y="242.295" font-size="3.881" fill="#666">Using default build options</tspan>
+  <text y="242.543" x="141.313" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(-.29 -230.854)">
+    <tspan y="242.543" x="141.313" font-size="3.881">Using default build options</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="65.734" y="253.058" font-weight="400" font-size="3.881" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
-    <tspan x="65.734" y="253.058" font-size="3.528" fill="#999">← 9.1 MB smaller</tspan>
+  <text style="line-height:23.99999946%" x="65.185" y="253.058" font-weight="400" font-size="3.881" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="65.185" y="253.058" font-size="3.528" fill="gray">← 9.1 MB smaller</tspan>
   </text>
-  <text transform="matrix(1.00162 0 0 .99839 0 -230.854)" y="282.506" x="41.753" style="line-height:23.99999946%" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
-    <tspan y="282.506" x="41.753" font-size="3.522" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">0 MB</tspan>
+  <text transform="matrix(1.00162 0 0 .99839 0 -230.854)" y="282.506" x="41.527" style="line-height:23.99999946%" font-weight="400" font-size="5.864" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".275">
+    <tspan y="282.506" x="41.527" font-size="3.522" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" fill="#757575">0</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="1.216" y="270.164" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
-    <tspan x="1.216" y="270.164" font-size="3.528" fill="#4d4d4d">senmlCat (cisco/senml)</tspan>
+  <text style="line-height:23.99999946%" x="40.917" y="270.021" font-weight="400" font-size="4.939" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan x="40.917" y="270.021" style="text-align:end" font-size="3.528" text-anchor="end" fill="#4d4d4d">senmlCat (cisco/senml)</tspan>
   </text>
-  <text y="255.12" x="5.284" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
-    <tspan y="255.12" x="5.284" font-size="3.528" fill="#4d4d4d">custom app (private)</tspan>
+  <text y="255.533" x="40.922" style="line-height:23.99999946%" font-weight="400" font-size="4.939" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#666" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan style="text-align:end" y="255.533" x="40.922" font-size="3.528" text-anchor="end" fill="#4d4d4d">custom app (private)</tspan>
   </text>
-  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.052 18.765h19.94v4.915h-19.94z"/>
-  <path fill="#ccc" stroke-width=".091" stroke-linejoin="round" d="M78.653 42.86h.301v3.24h-.301z"/>
-  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.02 33.214h54.556v4.754H43.02z"/>
-  <path fill="#db4436" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.053 38.042h86.146v4.688H43.053zM43.052 23.753h85.472v4.69H43.052z"/>
-  <path fill="#999" stroke-width=".265" stroke-linejoin="round" d="M42.623 18.633h.301V46.1h-.301z"/>
-  <text y="267.345" x="100.13" style="line-height:23.99999946%" font-weight="400" font-size="3.881" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
-    <tspan y="267.345" x="100.13" font-size="3.528" fill="#999">← 4.4 MB smaller</tspan>
+  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.008 18.765h19.94v4.915h-19.94z"/>
+  <path fill="#999" stroke-width=".085" stroke-linejoin="round" d="M78.562 42.86h.265v3.24h-.265z"/>
+  <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M42.975 33.214h54.556v4.754H42.975z"/>
+  <path fill="#db4436" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.008 38.042h86.146v4.688H43.008zM43.007 23.753h85.472v4.69H43.007z"/>
+  <path fill="#999" stroke-width=".248" stroke-linejoin="round" d="M42.578 18.633h.265V46.1h-.265z"/>
+  <text y="267.345" x="99.581" style="line-height:23.99999946%" font-weight="400" font-size="3.881" font-family="SF Pro Text,Inter,Public Sans,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
+    <tspan y="267.345" x="99.581" font-size="3.528" fill="gray">← 4.4 MB smaller</tspan>
   </text>
 </svg>
