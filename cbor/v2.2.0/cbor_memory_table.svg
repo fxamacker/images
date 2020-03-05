@@ -1,49 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="117" viewBox="0 0 232.833 30.956">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132-.133h232.569v10.32H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.186H232.7v10.32H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 20.505H232.7v10.32H.132z"/>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M135.676-.179h.243v30.933h-.243z"/>
-  <g font-weight="700" font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <text style="line-height:23.99999946%" x="71.088" y="272.476" transform="matrix(1 0 0 1 0 -266.335)">
-      <tspan x="71.088" y="272.476" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
-    </text>
-    <text y="272.476" x="165.309" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -266.335)">
-      <tspan y="272.476" x="165.309" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
-    </text>
-  </g>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M51.01-.179h.243v30.933h-.243z"/>
-  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <text style="line-height:23.99999946%" x="99.277" y="282.789" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan x="99.277" y="282.789" font-size="4.149">2 allocs/op</tspan>
-    </text>
-    <text y="282.789" x="2.784" style="line-height:23.99999946%" font-weight="600" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan y="282.789" x="2.784" font-size="4.145">Encode CWT Claims</tspan>
-    </text>
-    <text y="282.789" x="64.881" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan y="282.789" x="64.881" font-size="4.149">176 B/op</tspan>
-    </text>
-    <text y="282.789" x="186.588" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan y="282.789" x="186.588" font-size="4.149">4 allocs/op</tspan>
-    </text>
-    <text style="line-height:23.99999946%" x="153.78" y="282.789" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan x="153.78" y="282.789" font-size="4.149">1424 B/op</tspan>
-    </text>
-  </g>
-  <g font-size="4.939" font-family="SF Pro Text,Helvetica Neue,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arial,sans-serif" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <text style="line-height:23.99999946%" x="2.784" y="293.107" font-weight="600" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan x="2.784" y="293.107" font-size="4.145">Decode CWT Claims</tspan>
-    </text>
-    <text y="293.107" x="99.277" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan y="293.107" x="99.277" font-size="4.149">6 allocs/op</tspan>
-    </text>
-    <text style="line-height:23.99999946%" x="64.881" y="293.107" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan x="64.881" y="293.107" font-size="4.149">176 B/op</tspan>
-    </text>
-    <text style="line-height:23.99999946%" x="186.588" y="293.107" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan x="186.588" y="293.107" font-size="4.149">6 allocs/op</tspan>
-    </text>
-    <text y="293.107" x="155.897" style="line-height:23.99999946%" font-weight="400" transform="matrix(1 0 0 1 0 -266.363)">
-      <tspan y="293.107" x="155.897" font-size="4.149">568 B/op</tspan>
-    </text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="117" viewBox="0 0 211.667 30.956" font-family="&quot;SF Pro Text&quot;,Inter,&quot;Segoe UI&quot;,Roboto,&quot;Noto Sans&quot;,&quot;Droid Sans&quot;,&quot;Liberation Sans&quot;,Arimo,Arial,Oxygen,Ubuntu,Cantarell,sans-serif">
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.126-.139h211.402v10.323H.126z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.126 10.184h211.402v10.323H.126z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.126 20.507h211.402V30.83H.126z"/>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M129.657-.179h.242v30.933h-.242z"/>
+  <text y="272.184" x="61.575" style="line-height:23.99999946%" transform="translate(0 -266.044)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan y="272.184" x="61.575" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
+  </text>
+  <text style="line-height:23.99999946%" x="135.739" y="272.184" transform="translate(0 -266.044)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="135.739" y="272.184" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
+  </text>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M55.309-.179h.242v30.933h-.242z"/>
+  <text y="282.548" x="116.16" style="line-height:23.99999946%;text-align:end" transform="translate(0 -266.044)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="282.548" x="116.16" font-size="4.149">2 allocs/op</tspan>
+  </text>
+  <text transform="translate(0 -266.044)" style="line-height:23.99999946%" x="2.784" y="282.548" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="2.784" y="282.548" font-size="4.145">Encode CWT Claims</tspan>
+  </text>
+  <text transform="translate(0 -266.044)" style="line-height:23.99999946%;text-align:end" x="78.09" y="282.548" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="78.09" y="282.548" style="text-align:end" font-size="4.149">176 B/op</tspan>
+  </text>
+  <text transform="translate(0 -266.044)" style="line-height:23.99999946%;text-align:end" x="190.732" y="282.548" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="190.732" y="282.548" style="text-align:end" font-size="4.149">4 allocs/op</tspan>
+  </text>
+  <text y="282.548" x="155.33" style="line-height:23.99999946%;text-align:end" transform="translate(0 -266.044)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="282.548" x="155.33" font-size="4.149">1424 B/op</tspan>
+  </text>
+  <text transform="translate(0 -266.044)" y="292.867" x="2.784" style="line-height:23.99999946%" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="292.867" x="2.784" font-size="4.145">Decode CWT Claims</tspan>
+  </text>
+  <text transform="translate(0 -266.044)" style="line-height:23.99999946%;text-align:end" x="116.28" y="292.867" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="116.28" y="292.867" style="text-align:end" font-size="4.149">6 allocs/op</tspan>
+  </text>
+  <text y="292.867" x="78.09" style="line-height:23.99999946%;text-align:end" transform="translate(0 -266.044)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="292.867" x="78.09" font-size="4.149">176 B/op</tspan>
+  </text>
+  <text y="292.867" x="190.627" style="line-height:23.99999946%;text-align:end" transform="translate(0 -266.044)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="292.867" x="190.627" font-size="4.149">6 allocs/op</tspan>
+  </text>
+  <text transform="translate(0 -266.044)" style="line-height:23.99999946%;text-align:end" x="155.34" y="292.867" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="155.34" y="292.867" style="text-align:end" font-size="4.149">568 B/op</tspan>
+  </text>
 </svg>
