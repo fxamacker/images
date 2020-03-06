@@ -1,59 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="118" viewBox="0 0 232.833 31.221" font-family="SF Pro Text,Inter,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arimo,Arial,Oxygen,Ubuntu,Cantarell,sans-serif">
-  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132.132h232.569V10.45H.132z"/>
-  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.45H232.7v10.32H.132z"/>
-  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 20.77H232.7v10.319H.132z"/>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M131.509.086h.242v30.933h-.242z"/>
-  <text y="272.25" x="54.167" style="line-height:23.99999946%" transform="translate(0 -265.78)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan y="272.25" x="54.167" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 232.833 39.688" font-family="SF Pro Text,Inter,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arimo,Arial,Oxygen,Ubuntu,Cantarell,sans-serif">
+  <path fill="#fff" d="M0 29.105h232.833v10.583H0z"/>
+  <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132.215h232.569v10.319H.132z"/>
+  <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.534H232.7v10.319H.132z"/>
+  <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 20.853H232.7v10.319H.132z"/>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M131.509.168h.242V31.1h-.242z"/>
+  <text transform="translate(0 -257.312)" style="line-height:23.99999946%" x="54.167" y="263.865" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan x="54.167" y="263.865" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="136.004" y="272.25" transform="translate(0 -265.78)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
-    <tspan x="136.004" y="272.25" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
+  <text transform="translate(0 -257.312)" y="263.865" x="136.004" style="line-height:23.99999946%" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan y="263.865" x="136.004" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
   </text>
-  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M47.901.086h.242v30.933h-.242z"/>
-  <text y="282.547" x="126.207" style="line-height:23.99999946%;text-align:end" transform="translate(0 -265.78)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
-    <tspan style="text-align:end" y="282.547" x="126.207" font-size="4.149">1 allocs/op</tspan>
+  <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M47.901.168h.242V31.1h-.242z"/>
+  <text transform="translate(0 -257.312)" style="line-height:23.99999946%;text-align:end" x="126.207" y="274.162" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="126.207" y="274.162" style="text-align:end" font-size="4.149">1 allocs/op</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="143.725" y="282.547" transform="translate(0 -265.78)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="143.725" y="282.547" font-weight="700" font-size="4.145" fill="maroon">fatal error:<tspan font-weight="600"> out of memory</tspan></tspan>
+  <text transform="translate(0 -257.312)" y="274.162" x="143.725" style="line-height:23.99999946%" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="274.162" x="143.725" font-weight="700" font-size="4.145" fill="maroon">fatal error:<tspan font-weight="600"> out of memory</tspan></tspan>
   </text>
-  <text transform="translate(0 -265.78)" style="line-height:23.99999946%" x="4.465" y="282.547" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="4.465" y="282.547" font-size="4.145">Test (bad 9 bytes)</tspan>
+  <text y="274.162" x="4.465" style="line-height:23.99999946%" transform="translate(0 -257.312)" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan y="274.162" x="4.465" font-size="4.145">Bad 9-byte Msg</tspan>
   </text>
-  <text transform="translate(0 -265.78)" style="line-height:23.99999946%;text-align:end" x="74.92" y="282.547" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
-    <tspan x="74.92" y="282.547" style="text-align:end" font-size="4.149">60.6 ns/op</tspan>
+  <text y="274.162" x="74.92" style="line-height:23.99999946%;text-align:end" transform="translate(0 -257.312)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="274.162" x="74.92" font-size="4.149">60.6 ns/op</tspan>
   </text>
-  <text transform="translate(0 -265.78)" style="line-height:23.99999946%;text-align:end" x="98.23" y="282.547" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
-    <tspan x="98.23" y="282.547" style="text-align:end" font-size="4.149">40 B/op</tspan>
+  <text y="274.162" x="98.23" style="line-height:23.99999946%;text-align:end" transform="translate(0 -257.312)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="274.162" x="98.23" font-size="4.149">40 B/op</tspan>
   </text>
-  <text y="292.88" x="143.725" style="line-height:23.99999946%" transform="translate(0 -265.78)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="292.88" x="143.725" font-weight="700" font-size="4.145" fill="maroon">runtime:<tspan font-weight="600"> out of memory: cannot allocate</tspan></tspan>
+  <text transform="translate(0 -257.312)" style="line-height:23.99999946%" x="143.725" y="284.495" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="143.725" y="284.495" font-weight="700" font-size="4.145" fill="maroon">runtime:<tspan font-weight="600"> out of memory: cannot allocate</tspan></tspan>
   </text>
-  <text transform="translate(0 -265.78)" y="292.88" x="4.465" style="line-height:23.99999946%" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="292.88" x="4.465" font-size="4.145">Test (bad 10 bytes)</tspan>
+  <text style="line-height:23.99999946%" x="4.465" y="284.495" transform="translate(0 -257.312)" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+    <tspan x="4.465" y="284.495" font-size="4.145">Bad 10-byte Msg</tspan>
   </text>
-  <text transform="translate(0 -265.78)" style="line-height:23.99999946%;text-align:end" x="126.207" y="292.88" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
-    <tspan x="126.207" y="292.88" style="text-align:end" font-size="4.149">1 allocs/op</tspan>
+  <text y="284.495" x="126.207" style="line-height:23.99999946%;text-align:end" transform="translate(0 -257.312)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan style="text-align:end" y="284.495" x="126.207" font-size="4.149">1 allocs/op</tspan>
   </text>
-  <text y="292.88" x="74.92" style="line-height:23.99999946%;text-align:end" transform="translate(0 -265.78)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
-    <tspan style="text-align:end" y="292.88" x="74.92" font-size="4.149">61.7 ns/op</tspan>
+  <text transform="translate(0 -257.312)" style="line-height:23.99999946%;text-align:end" x="74.92" y="284.495" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="74.92" y="284.495" style="text-align:end" font-size="4.149">61.7 ns/op</tspan>
   </text>
-  <text y="292.88" x="98.23" style="line-height:23.99999946%;text-align:end" transform="translate(0 -265.78)" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
-    <tspan style="text-align:end" y="292.88" x="98.23" font-size="4.149">40 B/op</tspan>
+  <text transform="translate(0 -257.312)" style="line-height:23.99999946%;text-align:end" x="98.23" y="284.495" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+    <tspan x="98.23" y="284.495" style="text-align:end" font-size="4.149">40 B/op</tspan>
   </text>
-  <path d="M138.67 12.994l-.013.002a.304.304 0 00-.26.15l-1.049 1.816-1.048 1.816a.308.308 0 00.264.456h4.192c.23 0 .378-.258.264-.456l-1.049-1.816-1.048-1.815a.304.304 0 00-.234-.15l-.015-.002a.06.06 0 00-.003 0z" style="solid-color:#000" color="#000"/>
-  <path style="solid-color:#000" d="M138.67 13.061a.238.238 0 00-.216.119l-1.048 1.815-1.048 1.816a.24.24 0 00.205.355h4.193c.18 0 .295-.2.205-.355l-1.048-1.816-1.048-1.815a.237.237 0 00-.194-.119z" color="#000" fill="#fff"/>
-  <path style="solid-color:#000" d="M138.668 13.128a.17.17 0 00-.156.085l-1.048 1.816-1.048 1.815a.17.17 0 00.147.255h4.193a.17.17 0 00.147-.255l-1.048-1.815-1.048-1.816a.17.17 0 00-.14-.085z" color="#000"/>
-  <path d="M140.756 16.93h-4.192l1.048-1.816 1.048-1.816 1.048 1.816z" fill="#fc0"/>
-  <g transform="translate(136.025 12.752) scale(.03354)">
-    <circle r="8.817" cy="111.117" cx="78.564"/>
-    <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
-  </g>
-  <path style="solid-color:#000" d="M138.67 23.28l-.013.002a.304.304 0 00-.26.15l-1.049 1.816-1.048 1.816a.308.308 0 00.264.456h4.192c.23 0 .378-.258.264-.456l-1.049-1.816-1.048-1.815a.304.304 0 00-.234-.15l-.015-.002a.06.06 0 00-.003 0z" color="#000"/>
-  <path d="M138.67 23.347a.238.238 0 00-.216.119l-1.048 1.815-1.048 1.816a.24.24 0 00.205.355h4.193c.18 0 .295-.2.205-.355l-1.048-1.816-1.048-1.815a.237.237 0 00-.194-.119z" style="solid-color:#000" color="#000" fill="#fff"/>
-  <path d="M138.668 23.414a.17.17 0 00-.156.085l-1.048 1.816-1.048 1.815a.17.17 0 00.147.255h4.193a.17.17 0 00.147-.255l-1.048-1.815-1.048-1.816a.17.17 0 00-.14-.085z" style="solid-color:#000" color="#000"/>
-  <path d="M140.756 27.215h-4.192l1.048-1.815 1.048-1.816 1.048 1.816z" fill="#fc0"/>
-  <g transform="translate(136.025 23.038) scale(.03354)">
+  <path style="solid-color:#000" d="M138.67 13.077c-.004 0-.008 0-.013.002a.304.304 0 00-.26.15l-1.049 1.815-1.048 1.816a.308.308 0 00.264.456h4.192c.23 0 .378-.258.264-.456l-1.049-1.816-1.048-1.815a.304.304 0 00-.234-.15l-.015-.002a.06.06 0 00-.003 0z" color="#000"/>
+  <path d="M138.67 13.144a.238.238 0 00-.216.118l-1.048 1.815-1.048 1.816a.24.24 0 00.205.356h4.193c.18 0 .295-.2.205-.356l-1.048-1.816-1.048-1.815a.237.237 0 00-.194-.118z" style="solid-color:#000" color="#000" fill="#fff"/>
+  <path d="M138.668 13.21a.17.17 0 00-.156.086l-1.048 1.815-1.048 1.815a.17.17 0 00.147.256h4.193a.17.17 0 00.147-.256l-1.048-1.815-1.048-1.815a.17.17 0 00-.14-.085z" style="solid-color:#000" color="#000"/>
+  <path d="M140.756 17.011h-4.192l1.048-1.815 1.048-1.815 1.048 1.815z" fill="#fc0"/>
+  <g transform="translate(136.025 12.834) scale(.03354)">
     <circle cx="78.564" cy="111.117" r="8.817"/>
     <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
   </g>
+  <path d="M138.67 23.363c-.004 0-.008 0-.013.002a.304.304 0 00-.26.15l-1.049 1.815-1.048 1.816a.308.308 0 00.264.456h4.192c.23 0 .378-.258.264-.456l-1.049-1.816-1.048-1.815a.304.304 0 00-.234-.15l-.015-.002a.06.06 0 00-.003 0z" style="solid-color:#000" color="#000"/>
+  <path style="solid-color:#000" d="M138.67 23.43a.238.238 0 00-.216.118l-1.048 1.815-1.048 1.816a.24.24 0 00.205.356h4.193c.18 0 .295-.2.205-.356l-1.048-1.816-1.048-1.815a.237.237 0 00-.194-.118z" color="#000" fill="#fff"/>
+  <path style="solid-color:#000" d="M138.668 23.497a.17.17 0 00-.156.085l-1.048 1.815-1.048 1.815a.17.17 0 00.147.256h4.193a.17.17 0 00.147-.256l-1.048-1.815-1.048-1.815a.17.17 0 00-.14-.085z" color="#000"/>
+  <path d="M140.756 27.297h-4.192l1.048-1.815 1.048-1.815 1.048 1.815z" fill="#fc0"/>
+  <g transform="translate(136.025 23.12) scale(.03354)">
+    <circle r="8.817" cy="111.117" cx="78.564"/>
+    <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
+  </g>
+  <path d="M8.31 37.748v-2.46l-.595.595-.307-.306 1.004-1.004h.23l1.004 1.004-.307.306-.595-.595v2.026h1.42v.434z" aria-label="↴" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" fill="green"/>
+  <text y="296.105" x="12.041" style="line-height:100%" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -257.312)">
+    <tspan y="296.105" x="12.041" font-size="4.145" fill="#4d4d4d">Only 1 msg was needed to produce out of memory errors from decoding malformed CBOR data.</tspan>
+  </text>
 </svg>
