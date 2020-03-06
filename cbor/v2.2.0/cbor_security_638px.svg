@@ -4,48 +4,48 @@
   <path fill="#fff" stroke="#e0e0e0" stroke-width=".264" stroke-linejoin="round" d="M.132 12.567h168.54v10.32H.132z"/>
   <path fill="#f6f8fa" stroke="#e0e0e0" stroke-width=".264" stroke-linejoin="round" d="M.132 22.886h168.539v10.32H.132z"/>
   <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M80.729 2.467h.242V33.4h-.242z"/>
-  <text y="259.55" x="19.262" style="line-height:23.99999946%" transform="translate(0 -250.698)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
+  <text y="259.55" x="19.262" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -250.698)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
     <tspan y="259.55" x="19.262" font-size="4.233" fill="#333">fxamacker/cbor 2.2</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="83.636" y="259.55" transform="translate(0 -250.698)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
+  <text style="line-height:23.99999946%" x="83.636" y="259.55" transform="matrix(1 0 0 1 0 -250.698)" font-weight="700" font-size="4.939" letter-spacing="0" word-spacing="0" stroke-width=".265">
     <tspan x="83.636" y="259.55" font-size="4.233" fill="#333">ugorji/go 1.1.7</tspan>
   </text>
   <path fill="#e0e0e0" stroke="#e0e0e0" stroke-width=".023" stroke-linejoin="round" d="M16.171 2.467h.242V33.4h-.242z"/>
-  <text y="269.847" x="77.014" style="line-height:23.99999946%;text-align:end" transform="translate(0 -250.698)" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+  <text y="269.847" x="77.014" style="line-height:23.99999946%;text-align:end" transform="matrix(1 0 0 1 0 -250.698)" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
     <tspan style="text-align:end" y="269.847" x="77.014">1 allocs/op</tspan>
   </text>
-  <text style="line-height:23.99999946%" x="91.358" y="269.847" transform="translate(0 -250.698)" font-weight="700" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text style="line-height:23.99999946%" x="91.358" y="269.847" transform="matrix(1 0 0 1 0 -250.698)" font-weight="700" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="91.358" y="269.847" fill="maroon">fatal error: out of memory</tspan>
   </text>
-  <text transform="translate(0 -250.698)" style="line-height:23.99999946%" x="2.357" y="269.847" font-weight="600" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text transform="matrix(1 0 0 1 0 -250.698)" style="line-height:23.99999946%" x="2.357" y="269.847" font-weight="600" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="2.357" y="269.847" font-weight="700">Bad 1</tspan>
   </text>
-  <text transform="translate(0 -250.698)" style="line-height:23.99999946%;text-align:end" x="37.369" y="269.847" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+  <text transform="matrix(1 0 0 1 0 -250.698)" style="line-height:23.99999946%;text-align:end" x="37.369" y="269.847" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
     <tspan x="37.369" y="269.847" style="text-align:end">60.6 ns/op</tspan>
   </text>
-  <text transform="translate(0 -250.698)" style="line-height:23.99999946%;text-align:end" x="54.329" y="269.847" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+  <text transform="matrix(1 0 0 1 0 -250.698)" style="line-height:23.99999946%;text-align:end" x="54.329" y="269.847" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
     <tspan x="54.329" y="269.847" style="text-align:end">40 B/op</tspan>
   </text>
-  <text y="280.18" x="91.358" style="line-height:23.99999946%" transform="translate(0 -250.698)" font-weight="700" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text y="280.18" x="91.358" style="line-height:23.99999946%" transform="matrix(1 0 0 1 0 -250.698)" font-weight="700" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan y="280.18" x="91.358" fill="maroon">runtime: out of memory: cannot allocate</tspan>
   </text>
-  <text transform="translate(0 -250.698)" y="280.18" x="2.357" style="line-height:23.99999946%" font-weight="600" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
+  <text transform="matrix(1 0 0 1 0 -250.698)" y="280.18" x="2.357" style="line-height:23.99999946%" font-weight="600" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan y="280.18" x="2.357" font-weight="700">Bad 2</tspan>
   </text>
-  <text transform="translate(0 -250.698)" style="line-height:23.99999946%;text-align:end" x="77.014" y="280.18" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+  <text transform="matrix(1 0 0 1 0 -250.698)" style="line-height:23.99999946%;text-align:end" x="77.014" y="280.18" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
     <tspan x="77.014" y="280.18" style="text-align:end">1 allocs/op</tspan>
   </text>
-  <text y="280.18" x="37.369" style="line-height:23.99999946%;text-align:end" transform="translate(0 -250.698)" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+  <text y="280.18" x="37.369" style="line-height:23.99999946%;text-align:end" transform="matrix(1 0 0 1 0 -250.698)" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
     <tspan style="text-align:end" y="280.18" x="37.369">61.7 ns/op</tspan>
   </text>
-  <text y="280.18" x="54.329" style="line-height:23.99999946%;text-align:end" transform="translate(0 -250.698)" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
+  <text y="280.18" x="54.329" style="line-height:23.99999946%;text-align:end" transform="matrix(1 0 0 1 0 -250.698)" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#333" stroke-width=".265">
     <tspan style="text-align:end" y="280.18" x="54.329">40 B/op</tspan>
   </text>
   <path d="M86.303 15.376c-.005 0-.01 0-.014.002a.303.303 0 00-.261.15l-1.048 1.815-1.048 1.816a.308.308 0 00.263.456h4.193c.23 0 .378-.258.263-.456l-1.048-1.816-1.048-1.815a.304.304 0 00-.234-.15l-.015-.002a.06.06 0 00-.003 0z" style="solid-color:#000" color="#000"/>
   <path style="solid-color:#000" d="M86.303 15.443a.238.238 0 00-.217.118l-1.048 1.816-1.048 1.815a.24.24 0 00.205.356h4.193c.18 0 .295-.2.205-.356l-1.048-1.815-1.048-1.816a.237.237 0 00-.194-.118z" color="#000" fill="#fff"/>
   <path style="solid-color:#000" d="M86.3 15.51a.17.17 0 00-.156.085l-1.048 1.815-1.048 1.815a.17.17 0 00.147.256h4.193a.17.17 0 00.147-.256l-1.048-1.815-1.048-1.815a.17.17 0 00-.14-.085z" color="#000"/>
   <path d="M88.388 19.31h-4.193l1.048-1.815 1.049-1.815 1.048 1.815z" fill="#fc0"/>
-  <g transform="translate(83.657 15.133) scale(.03354)">
+  <g transform="matrix(.03354 0 0 .03354 83.657 15.133)">
     <circle r="8.817" cy="111.117" cx="78.564"/>
     <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
   </g>
@@ -53,15 +53,15 @@
   <path d="M86.303 25.729a.238.238 0 00-.217.118l-1.048 1.816-1.048 1.815a.24.24 0 00.205.356h4.193c.18 0 .295-.2.205-.356l-1.048-1.815-1.048-1.816a.237.237 0 00-.194-.118z" style="solid-color:#000" color="#000" fill="#fff"/>
   <path d="M86.3 25.796a.17.17 0 00-.156.085l-1.048 1.815-1.048 1.815a.17.17 0 00.147.256h4.193a.17.17 0 00.147-.256l-1.048-1.815-1.048-1.815a.17.17 0 00-.14-.085z" style="solid-color:#000" color="#000"/>
   <path d="M88.388 29.597h-4.193l1.048-1.816 1.049-1.815 1.048 1.815z" fill="#fc0"/>
-  <g transform="translate(83.657 25.42) scale(.03354)">
+  <g transform="matrix(.03354 0 0 .03354 83.657 25.42)">
     <circle cx="78.564" cy="111.117" r="8.817"/>
     <path d="M78.564 42.955a8.817 8.817 0 00-8.818 8.816l3.156 37.461a5.662 5.662 0 0011.325 0l3.154-37.46a8.817 8.817 0 00-8.817-8.817z"/>
   </g>
-  <path d="M6.102 38.631v-1.99l-.481.481-.248-.248.812-.812h.186l.813.812-.249.248-.481-.481v1.639h1.15v.351z" aria-label="↴" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" fill="green"/>
+  <path d="M6.102 38.631v-1.99l-.481.481-.248-.248.812-.812h.186l.813.812-.249.248-.481-.481v1.639h1.15v.351z" aria-label="↴" style="fill:#008000;stroke-width:0.26458335" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" fill="green" stroke-width=".265"/>
   <text y="290.374" x="8.947" style="line-height:100%" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -250.698)">
-    <tspan y="290.374" x="8.947" font-size="3.881" fill="#4d4d4d">Decoding tests used <tspan font-weight="700">9 bytes</tspan> (test 1) and <tspan font-weight="700">10 bytes</tspan> (test 2) of malformed CBOR data.</tspan>
+    <tspan y="290.374" x="8.947" font-size="3.881" fill="#4d4d4d">Decoding tests used <tspan font-weight="700">9 bytes</tspan> (bad 1) and <tspan font-weight="700">10 bytes</tspan> (bad 2) of malformed CBOR data.</tspan>
   </text>
   <text style="line-height:100%" x="8.947" y="296.195" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -250.698)">
-    <tspan x="8.947" y="296.195" font-size="3.881" fill="#4d4d4d">Only 1 msg of 9-10 bytes was needed to produce out of memory error.</tspan>
+    <tspan x="8.947" y="296.195" font-size="3.881" fill="#4d4d4d">Only 1 msg (1 decode total) was needed to produce out of memory error.</tspan>
   </text>
 </svg>
