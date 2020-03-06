@@ -59,6 +59,6 @@
   </g>
   <path d="M8.31 37.748v-2.46l-.595.595-.307-.306 1.004-1.004h.23l1.004 1.004-.307.306-.595-.595v2.026h1.42v.434z" aria-label="↴" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" fill="green"/>
   <text y="296.105" x="12.041" style="line-height:100%" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -257.312)">
-    <tspan y="296.105" x="12.041" font-size="4.145" fill="#4d4d4d">Only 1 msg was needed to produce out of memory errors from decoding malformed CBOR data.</tspan>
+    <tspan y="296.105" x="12.041" font-size="4.145" fill="#4d4d4d">Only 1 bad msg (1 decode total) was needed to produce out of memory error.</tspan>
   </text>
 </svg>
