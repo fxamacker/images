@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="746" height="250" viewBox="0 0 197.379 66.146" font-family="&quot;SF Pro Text&quot;,Inter,&quot;Segoe UI&quot;,Roboto,&quot;Noto Sans&quot;,&quot;Droid Sans&quot;,&quot;Liberation Sans&quot;,Arimo,Arial,Oxygen,Ubuntu,Cantarell,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="250" viewBox="0 0 197.379 66.146" font-family="SF Pro Text,Inter,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arimo,Arial,Oxygen,Ubuntu,Cantarell,sans-serif">
   <path fill="#fff" stroke="#fff" stroke-width=".426" d="M.213.213h196.953v65.719H.213z"/>
-  <path fill="#999" stroke-width=".085" stroke-linejoin="round" d="M114.545 42.856h.265V46.1h-.265z"/>
+  <path fill="#999" d="M114.545 42.856h.265V46.1h-.265z"/>
   <g font-weight="400" font-size="5.644" letter-spacing="0" word-spacing="0" stroke-width=".265">
     <text style="line-height:23.99999946%" x="39.632" y="235.645" transform="matrix(1 0 0 .99678 -39.588 -223.197)">
       <tspan x="39.632" y="235.645" font-size="3.881" fill="#666">Same apps can be 4-9 MB smaller by using fxamacker/cbor</tspan>
@@ -20,11 +20,11 @@
   </text>
   <path fill="#4285f4" stroke="#fff" stroke-width=".339" d="M-62.498-360.094h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 203.955 378.167)"/>
   <text style="line-height:23.99999946%" x="-56.591" y="-356.793" font-weight="400" font-size="5.644" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 203.955 378.167)">
-    <tspan x="-56.591" y="-356.793" font-weight="600" font-size="4.24" fill="#4080ff">fxamacker/cbor 2.2</tspan>
+    <tspan x="-56.591" y="-356.793" font-weight="600" font-size="4.24" fill="#2060e0">fxamacker/cbor 2.2</tspan>
   </text>
   <path fill="#db4437" stroke="#fff" stroke-width=".339" d="M-62.272-349.472h3.894v3.894h-3.894z" transform="matrix(1 0 0 .99678 203.73 386.754)"/>
   <text style="line-height:23.99999946%" x="-56.489" y="-346.168" font-weight="400" font-size="5.644" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="matrix(1 0 0 .99678 203.73 386.754)">
-    <tspan x="-56.489" y="-346.168" font-weight="600" font-size="4.24" fill="#c04020">ugorji/go 1.1.7</tspan>
+    <tspan x="-56.489" y="-346.168" font-weight="600" font-size="4.24" fill="#a02000">ugorji/go 1.1.7</tspan>
   </text>
   <text transform="matrix(1.00162 0 0 .99839 -.29 -230.854)" y="259.087" x="147.087" style="line-height:1em" font-weight="400" font-size="5.635" letter-spacing="0" word-spacing="0" stroke-width=".264">
     <tspan style="line-height:50%" y="259.087" x="147.087" font-size="3.528" fill="#666">not using Go&apos;s unsafe pkg</tspan>
@@ -54,10 +54,10 @@
     <tspan style="text-align:end" y="255.533" x="40.922" font-size="3.528" text-anchor="end" fill="#4d4d4d">custom app (private)</tspan>
   </text>
   <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.008 18.765h19.94v4.915h-19.94z"/>
-  <path fill="#999" stroke-width=".085" stroke-linejoin="round" d="M78.562 42.86h.265v3.24h-.265z"/>
+  <path fill="#999" d="M78.562 42.86h.265v3.24h-.265z"/>
   <path fill="#4285f4" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M42.975 33.214h54.556v4.754H42.975z"/>
   <path fill="#db4436" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M43.008 38.042h86.146v4.688H43.008zm-.001-14.289h85.472v4.69H43.007z"/>
-  <path fill="#999" stroke-width=".248" stroke-linejoin="round" d="M42.578 18.633h.265V46.1h-.265z"/>
+  <path fill="#999" d="M42.578 18.633h.265V46.1h-.265z"/>
   <text y="267.345" x="99.581" style="line-height:23.99999946%" font-weight="400" font-size="3.881" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -230.854)">
     <tspan y="267.345" x="99.581" font-size="3.528" fill="gray">← 4.4 MB smaller</tspan>
   </text>
