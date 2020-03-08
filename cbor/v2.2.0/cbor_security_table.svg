@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 232.833 39.688" font-family="SF Pro Text,Inter,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arimo,Helvetica,Arial,Oxygen,Ubuntu,Cantarell,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 232.833 39.688" font-family="SF Pro Text,Inter,Segoe UI,Roboto,Noto Sans,Droid Sans,Liberation Sans,Arimo,Arial,Oxygen,Ubuntu,Cantarell,Helvetica,sans-serif">
   <path fill="#fff" d="M0 29.105h232.833v10.583H0z"/>
   <path fill="#eef2ff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132.215h232.569v10.319H.132z"/>
   <path fill="#fff" stroke="#e0e0e0" stroke-width=".265" stroke-linejoin="round" d="M.132 10.534H232.7v10.319H.132z"/>
@@ -59,6 +59,6 @@
   </g>
   <path d="M8.31 37.219v-2.46l-.595.595-.307-.306 1.004-1.004h.23l1.004 1.004-.307.306-.595-.595v2.025h1.42v.435z" aria-label="↴" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" fill="green"/>
   <text y="295.576" x="12.041" style="line-height:100%" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -257.312)">
-    <tspan y="295.576" x="12.041" font-size="4.145" fill="#4d4d4d">Only 1 bad msg (1 decode attempt) was needed to produce out of memory error.</tspan>
+    <tspan y="295.576" x="12.041" font-size="4.145" fill="#4d4d4d">Only 1 decode attempt of 9-10 bytes was needed to produce out of memory error.</tspan>
   </text>
 </svg>
