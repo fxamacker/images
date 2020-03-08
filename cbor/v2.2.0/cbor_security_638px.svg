@@ -62,6 +62,6 @@
     <tspan y="290.374" x="8.947" font-size="3.881" fill="#4d4d4d">Decoding tests used <tspan font-weight="700">9 bytes</tspan> (bad 1) and <tspan font-weight="700">10 bytes</tspan> (bad 2) of malformed CBOR data.</tspan>
   </text>
   <text style="line-height:100%" x="8.947" y="296.195" font-weight="400" font-size="4.233" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -250.698)">
-    <tspan x="8.947" y="296.195" font-size="3.881" fill="#4d4d4d">Only 1 msg (1 decode attempt) was needed to produce out of memory error.</tspan>
+    <tspan x="8.947" y="296.195" font-size="3.881" fill="#4d4d4d">Only 1 decode attempt was needed to produce out of memory error.</tspan>
   </text>
 </svg>
