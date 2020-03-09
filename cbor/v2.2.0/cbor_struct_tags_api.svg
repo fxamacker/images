@@ -62,7 +62,7 @@
     <tspan y="250.834" x="119.038"><tspan font-weight="700" class="sans">toarray</tspan><tspan class="sans"> </tspan><tspan font-size="4.233" class="sans">translates struct fields to</tspan></tspan>
   </text>
   <text style="line-height:23.99999946%" x="118.87" y="257.618" font-weight="400" font-size="4.939" class="sans" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="118.87" y="257.618" font-size="4.233" class="sans">elements of CBOR arrays.</tspan>
+    <tspan x="118.87" y="257.618" font-size="4.233" class="sans">elements of CBOR array.</tspan>
   </text>
   <text style="line-height:23.99999946%" x="119.043" y="289.368" font-weight="400" font-size="4.939" class="sans" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
     <tspan x="119.043" y="289.368"><tspan font-weight="700" class="sans">API</tspan><tspan class="sans"> </tspan><tspan font-size="4.233" class="sans">uses same function signatures</tspan></tspan>
