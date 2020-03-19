@@ -68,7 +68,7 @@
     <tspan x="119.043" y="289.368"><tspan font-weight="700" class="sans">API</tspan><tspan class="sans"> </tspan><tspan font-size="4.233" class="sans">uses same function signatures</tspan></tspan>
   </text>
   <text y="295.983" x="118.81" style="line-height:23.99999946%" font-weight="400" font-size="4.939" class="sans" letter-spacing="0" word-spacing="0" fill="#4d4d4d" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan y="295.983" x="118.81" font-size="4.233" class="sans">as Go&apos;s json/encoding package.</tspan>
+    <tspan y="295.983" x="118.81" font-size="4.233" class="sans">as Go&apos;s encoding/json package.</tspan>
   </text>
   <text style="line-height:125%" x="34.925" y="271.655" font-weight="400" font-size="4.939" class="sans" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
     <tspan x="34.925" y="271.655" style="line-height:100%" font-size="3.881" class="mono">[]<tspan fill="#00f">byte</tspan></tspan>
