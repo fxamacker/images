@@ -27,7 +27,7 @@
     <tspan style="text-align:end" y="274.162" x="98.23" font-size="4.149">32 B/op</tspan>
   </text>
   <text transform="translate(0 -257.312)" style="line-height:23.99999946%" x="143.725" y="284.495" font-weight="400" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="143.725" y="284.495" font-weight="700" font-size="4.145" fill="maroon">runtime:<tspan font-weight="600"> out of memory: cannot allocate</tspan></tspan>
+    <tspan x="143.725" y="284.495" font-weight="700" font-size="4.145" fill="maroon">fatal error:<tspan font-weight="600"> out of memory</tspan></tspan>
   </text>
   <text style="line-height:23.99999946%" x="4.465" y="284.495" transform="translate(0 -257.312)" font-weight="600" font-size="4.939" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="4.465" y="284.495" font-size="4.145">Malformed CBOR B</tspan>
