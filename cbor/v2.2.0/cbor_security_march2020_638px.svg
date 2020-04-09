@@ -15,7 +15,7 @@
     <tspan style="text-align:end" y="269.318" x="83.364">1 allocs/op</tspan>
   </text>
   <text style="line-height:23.99999946%" x="97.708" y="269.318" transform="translate(0 -250.169)" font-weight="700" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan x="97.708" y="269.318" fill="maroon">fatal error: out of memory</tspan>
+    <tspan x="97.708" y="269.318" fill="maroon">fatal error: runtime: out of memory</tspan>
   </text>
   <text transform="translate(0 -250.169)" style="line-height:23.99999946%" x="2.357" y="269.318" font-weight="600" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan x="2.357" y="269.318" font-weight="700">Bad A</tspan>
@@ -27,7 +27,7 @@
     <tspan x="59.621" y="269.318" style="text-align:end">32 B/op</tspan>
   </text>
   <text y="279.651" x="97.708" style="line-height:23.99999946%" transform="translate(0 -250.169)" font-weight="700" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
-    <tspan y="279.651" x="97.708" fill="maroon">fatal error: out of memory</tspan>
+    <tspan y="279.651" x="97.708" fill="maroon">fatal error: runtime: out of memory</tspan>
   </text>
   <text transform="translate(0 -250.169)" y="279.651" x="2.357" style="line-height:23.99999946%" font-weight="600" font-size="3.881" letter-spacing="0" word-spacing="0" fill="#333" stroke-width=".265">
     <tspan y="279.651" x="2.357" font-weight="700">Bad B</tspan>
