@@ -92,7 +92,7 @@
     <tspan x="6.879" y="255.78" style="line-height:100%" font-size="3.881" class="mono"><tspan fill="#4c4c4c">Protected</tspan></tspan>
   </text>
   <text style="line-height:125%" x="6.879" y="266.363" font-weight="400" font-size="4.939" class="sans" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
-    <tspan x="6.879" y="266.363" style="line-height:100%" font-size="3.881" class="mono">Payload</tspan>
+    <tspan x="6.879" y="266.363" style="line-height:100%" font-size="3.881" class="mono"><tspan fill="#4c4c4c">Payload</tspan></tspan>
   </text>
   <text y="271.655" x="6.879" style="line-height:125%" font-weight="400" font-size="4.939" class="sans" letter-spacing="0" word-spacing="0" stroke-width=".265" transform="translate(0 -212.333)">
     <tspan style="line-height:100%" y="271.655" x="6.879" font-size="3.881" class="mono"><tspan fill="#4c4c4c">Signature</tspan></tspan>
